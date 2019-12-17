@@ -1,16 +1,25 @@
 package ConexionesBBDD;
 
 public class UsuarioDB {
-	public int DNI;
+	public String DNI;
 	public String Nombre;
 	public String Apellido;
 	public String email;
 	
-	public int getDNI() {
+	
+	public UsuarioDB(String dNI, String nombre, String apellido, String email) {
+		this.DNI = dNI;
+		this.Nombre = nombre;
+		this.Apellido = apellido;
+		this.email = email;
+	}
+	
+
+	public String getDNI() {
 		return DNI;
 	}
 	
-	public void setDNI(int DNI) {
+	public void setDNI(String DNI) {
 		this.DNI = DNI;
 	}
 	

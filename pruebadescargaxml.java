@@ -1,4 +1,4 @@
-package pruebadescargaxml;
+package com.grupo1.retoAlojamientos;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.net.URL;
@@ -11,7 +11,7 @@ public class pruebadescargaxml {
 		String alojamiento = "http://opendata.euskadi.eus/contenidos/ds_recursos_turisticos/campings_de_euskadi/opendata/alojamientos.xml";
         
 	        try {
-	            downloadUsingNIO(alojamiento, "C:\\Temp\\alojamiento.xml");
+	            downloadUsingNIO(alojamiento, "alojamiento.xml");
 	        } catch (IOException e) {
 	            e.printStackTrace();
 	        }

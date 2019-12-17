@@ -3,14 +3,14 @@ package ConexionesBBDD;
 public class UsuarioDB {
 	public String DNI;
 	public String Nombre;
-	public String Apellido;
+	public String Apellidos;
 	public String email;
 	
 	
-	public UsuarioDB(String dNI, String nombre, String apellido, String email) {
+	public UsuarioDB(String dNI, String nombre, String apellidos, String email) {
 		this.DNI = dNI;
 		this.Nombre = nombre;
-		this.Apellido = apellido;
+		this.Apellidos = apellidos;
 		this.email = email;
 	}
 	
@@ -31,12 +31,12 @@ public class UsuarioDB {
 		this.Nombre = Nombre;
 	}
 	
-	public String getApellido() {
-		return Apellido;
+	public String getApellidos() {
+		return Apellidos;
 	}
 	
-	public void setApellido(String Apellido) {
-		this.Apellido = Apellido;
+	public void setApellidos(String Apellidos) {
+		this.Apellidos = Apellidos;
 	}
 	
 	public String getEmail() {

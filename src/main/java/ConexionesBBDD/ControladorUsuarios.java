@@ -24,7 +24,7 @@ public class ControladorUsuarios {
 		
 		ControladorUsuarios ME = new ControladorUsuarios(); 
 		/* Add few UsuarioDB records in database */ 
-		 ME.addUsuarioDB("87654321A", "piter" , "aa", "aa@gmail.com");
+		 ME.addUsuarioDB("87654321P", "GANAMOS" , "aaojk", "aa@gmail.com");
 		
 //		/* List down all the UsuarioDBs */ 
 //		ME.listUsuarioDBs(); 
@@ -41,8 +41,7 @@ public class ControladorUsuarios {
 		
 	      Session session = factory.openSession();
 	      Transaction tx = null;
-	      
-	      
+	            
 	      try {
 	         tx = session.beginTransaction();
 	         UsuarioDB UsuarioDB = new UsuarioDB(dni, nombre, apellido, email);

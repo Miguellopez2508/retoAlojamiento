@@ -4,18 +4,23 @@
 <!-- Generated 17-dic-2019 9:27:02 by Hibernate Tools 3.5.0.Final -->
 <hibernate-mapping>
     <class name="ConexionesBBDD.UsuarioDB" table="usuario">
-        <id name="Apellido" type="java.lang.String">
-            <column name="APELLIDO" />
+    
+        <id name="Apellidos" type="java.lang.String">
+            <column name="Apellidos" />
             <generator class="assigned" />
         </id>
-        <property name="DNI" type="int">
+        
+        <property name="DNI" type="java.lang.String">
             <column name="DNI" />
         </property>
+        
         <property name="Nombre" type="java.lang.String">
             <column name="NOMBRE" />
         </property>
+        
         <property name="email" type="java.lang.String">
             <column name="EMAIL" />
         </property>
+        
     </class>
 </hibernate-mapping>

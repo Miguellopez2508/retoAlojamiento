@@ -8,9 +8,7 @@ import org.hibernate.Transaction;
 
 public class ControladorUsuarios {
 	
-	
 	SessionFactoryUtil sesion = SessionFactoryUtil.getInstance();
-	
 	
 	public void addUsuarioDB(String dni, String nombre, String apellido, String email){
 		
@@ -27,7 +25,6 @@ public class ControladorUsuarios {
 	         e.printStackTrace(); 
 	      } finally {
 	         session.close(); 
-	      }
-	      
+	      } 
 	   }
 }

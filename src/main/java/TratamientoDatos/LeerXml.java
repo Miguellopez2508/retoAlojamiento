@@ -43,7 +43,7 @@ public class LeerXml {
 					try{
 						Signatura = eElement.getElementsByTagName("signatura").item(0).getTextContent();
 					}catch(Exception e){
-						Signatura = String.valueOf(0);
+						Signatura = String.valueOf(temp);
 					}
 					
 					try{

@@ -27,8 +27,8 @@ public class Main {
 		String albergues = System.getProperty("user.dir") + "\\albergues.xml";
 		
 		ArrayList<AlojamientoDB> ArrayCampings =  leerXml.leerXmlDeAlojamientos(campings);
-		//ArrayList<AlojamientoDB> ArrayAlojamientosRurales =  leerXml.leerXmlDeAlojamientos(alojamientosRurales);
-		//ArrayList<AlojamientoDB> ArrayAlbergues =  leerXml.leerXmlDeAlojamientos(albergues);
+		ArrayList<AlojamientoDB> ArrayAlojamientosRurales =  leerXml.leerXmlDeAlojamientos(alojamientosRurales);
+		ArrayList<AlojamientoDB> ArrayAlbergues =  leerXml.leerXmlDeAlojamientos(albergues);
 		
 		String hql = "delete from Modelo.AlojamientoDB";
 		Query query = session.createQuery(hql);	
@@ -36,17 +36,17 @@ public class Main {
 		
 		ControladorUsuarios miControlador1 = new ControladorUsuarios();
 		ControladorAlojamiento miControlador2 = new ControladorAlojamiento();
-		miControlador1.addUsuarioDB("gfdbdf9", "asda", "dasf", "ads");
+		miControlador1.addUsuarioDB("gfdbdf9ar", "asda", "dasf", "ads");
 	
 		for (AlojamientoDB campingss : ArrayCampings) {
 			miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud());
 		}
-		/*for (AlojamientoDB campingss : ArrayAlojamientosRurales) {
+		for (AlojamientoDB campingss : ArrayAlojamientosRurales) {
 			miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud());
 		}
 		for (AlojamientoDB campingss : ArrayAlbergues) {
 			miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud());
-		}*/
+		}
 	}
 
 }

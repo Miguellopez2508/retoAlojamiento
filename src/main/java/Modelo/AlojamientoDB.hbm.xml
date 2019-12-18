@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 18-dic-2019 10:31:22 by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="Modelo.AlojamientoDB" table="alojamientos">
+        <id name="Capacidad" type="int">
+            <column name="CAPACIDAD" />
+            <generator class="assigned" />
+        </id>
+        
+        <property name="Signatura" type="java.lang.String">
+            <column name="ID" />
+        </property>     
+        <property name="Nombre" type="java.lang.String">
+            <column name="NOMBRE" />
+        </property>
+        <property name="Descripcion" type="java.lang.String">
+            <column name="DESCRIPCION" />
+        </property>
+        <property name="Telefono" type="java.lang.String">
+            <column name="TELEFONO" />
+        </property>
+        <property name="Direccion" type="java.lang.String">
+            <column name="DIRECCION" />
+        </property>
+        <property name="Email" type="java.lang.String">
+            <column name="EMAIL" />
+        </property>
+        <property name="Web" type="java.lang.String">
+            <column name="WEB" />
+        </property>
+        <property name="TipoDeAlojamiento" type="java.lang.String">
+            <column name="TIPO" />
+        </property>
+        <property name="CodigoPostal" type="int">
+            <column name="CODIGO_POSTAL" />
+        </property>
+        <property name="Longitud" type="java.lang.String">
+            <column name="LONGITUD" />
+        </property>
+        <property name="Latitud" type="java.lang.String">
+            <column name="LATITUD" />
+        </property>
+    </class>
+</hibernate-mapping>

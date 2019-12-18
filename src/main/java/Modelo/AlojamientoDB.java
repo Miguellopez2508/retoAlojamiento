@@ -1,12 +1,11 @@
-package ConexionesBBDD;
+package Modelo;
 
 public class AlojamientoDB {
 	
-	
-	public int ID;
+	public String Signatura;
 	public String Nombre;
 	public String Descripcion;
-	public int Telefono;
+	public String Telefono;
 	public String Direccion;
 	public String Email;
 	public String Web;
@@ -17,8 +16,8 @@ public class AlojamientoDB {
 	public String Latitud;
 	
 	
-	public AlojamientoDB(int ID, String nombre, String descripcion, int telefono, String direccion, String email, String web, String tipoDeAlojamiento, int capacidad, int codigoPostal, String longitud, String latitud) {
-		this.ID = ID;
+	public AlojamientoDB(String signatura, String nombre, String descripcion, String telefono, String direccion, String email, String web, String tipoDeAlojamiento, int capacidad, int codigoPostal, String longitud, String latitud) {
+		this.Signatura = signatura;
 		this.Nombre = nombre;
 		this.Descripcion = descripcion;
 		this.Telefono = telefono;
@@ -32,17 +31,22 @@ public class AlojamientoDB {
 		this.Latitud = latitud;
 	}
 	
+	
 	public AlojamientoDB() {
 
 	}
 	
 	
-	public int getID() {
-		return ID;
+	public String getSignatura() {
+		return Signatura;
 	}
-	public void setID(int iD) {
-		ID = iD;
+
+
+	public void setSignatura(String signatura) {
+		this.Signatura = signatura;
 	}
+
+
 	public String getNombre() {
 		return Nombre;
 	}
@@ -55,10 +59,10 @@ public class AlojamientoDB {
 	public void setDescripcion(String descripcion) {
 		Descripcion = descripcion;
 	}
-	public int getTelefono() {
+	public String getTelefono() {
 		return Telefono;
 	}
-	public void setTelefono(int telefono) {
+	public void setTelefono(String telefono) {
 		Telefono = telefono;
 	}
 	public String getDireccion() {

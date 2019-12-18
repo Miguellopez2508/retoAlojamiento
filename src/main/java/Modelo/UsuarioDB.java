@@ -1,4 +1,4 @@
-package ConexionesBBDD;
+package Modelo;
 
 public class UsuarioDB {
 	public String DNI;

@@ -1,8 +1,5 @@
 package ConexionesBBDD;
 
-import java.util.List; 
-import java.util.Date;
-import java.util.Iterator; 
 
 import org.hibernate.HibernateException; 
 import org.hibernate.Session; 
@@ -13,6 +10,7 @@ import org.hibernate.cfg.Configuration;
 public class ControladorUsuarios {
 	
 	private static SessionFactory factory; 
+	
 	public static void main(String[] args) { 
 		
 		try { 
@@ -23,17 +21,10 @@ public class ControladorUsuarios {
 		} 
 		
 		ControladorUsuarios ME = new ControladorUsuarios(); 
-		/* Add few UsuarioDB records in database */ 
-		 ME.addUsuarioDB("87654321P", "GANAMOS" , "aaojk", "aa@gmail.com");
+
+		ME.addUsuarioDB("87654321P", "GANAMOS" , "aaojk", "aa@gmail.com");
 		
-//		/* List down all the UsuarioDBs */ 
-//		ME.listUsuarioDBs(); 
-//		/* Update UsuarioDB's records */ 
-//		ME.updateUsuarioDB(empID1, 5000); 
-//		/* Delete an UsuarioDB from the database */ 
-//		ME.deleteUsuarioDB(empID2); 
-//		/* List down new list of the UsuarioDBs */ 
-//		ME.listUsuarioDBs(); 
+
 		}
 
 	

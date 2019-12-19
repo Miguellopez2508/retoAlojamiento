@@ -42,6 +42,12 @@
         <property name="Latitud" type="java.lang.String">
             <column name="LATITUD" />
         </property>
+        <property name="Municipio" type="java.lang.String">
+            <column name="MUNICIPIO" />
+        </property>
+        <property name="Territorio" type="java.lang.String">
+            <column name="TERRITORIO" />
+        </property>
        
     </class>
 </hibernate-mapping>

@@ -10,7 +10,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00001",
   "Nombre": "MOANA SURF HOSTEL",
@@ -23,7 +25,9 @@
   "Capacidad": 75,
   "CodigoPostal": 48610,
   "Longitud": "43.3737401",
-  "Latitud": "-2.9482986000000437"
+  "Latitud": "-2.9482986000000437",
+  "Municipio": "Urduliz",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00002",
   "Nombre": "BARRIKA SURF CAMP",
@@ -36,7 +40,9 @@
   "Capacidad": 26,
   "CodigoPostal": 48450,
   "Longitud": "43.4051437",
-  "Latitud": "-2.9657849999999826"
+  "Latitud": "-2.9657849999999826",
+  "Municipio": "Barrika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00003",
   "Nombre": "PIL PIL HOSTEL",
@@ -49,7 +55,9 @@
   "Capacidad": 63,
   "CodigoPostal": 48013,
   "Longitud": "43.2627978",
-  "Latitud": "-2.946540099999993"
+  "Latitud": "-2.946540099999993",
+  "Municipio": "Bilbao",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00004",
   "Nombre": "GANBARA HOSTEL",
@@ -62,7 +70,9 @@
   "Capacidad": 62,
   "CodigoPostal": 48006,
   "Longitud": "43.2583377",
-  "Latitud": "-2.9186009000000013"
+  "Latitud": "-2.9186009000000013",
+  "Municipio": "Bilbao",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00005",
   "Nombre": "BILBAO AKELARRE YOUTH HOSTEL",
@@ -75,7 +85,9 @@
   "Capacidad": 34,
   "CodigoPostal": 48014,
   "Longitud": "43.2687458",
-  "Latitud": "-2.954609800000071"
+  "Latitud": "-2.954609800000071",
+  "Municipio": "Bilbao",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00002",
   "Nombre": "BARRIKA SURF CAMP",
@@ -88,7 +100,9 @@
   "Capacidad": 26,
   "CodigoPostal": 48450,
   "Longitud": "43.4051437",
-  "Latitud": "-2.9657849999999826"
+  "Latitud": "-2.9657849999999826",
+  "Municipio": "Barrika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00008",
   "Nombre": "BILBAO CENTRAL HOSTEL",
@@ -101,7 +115,9 @@
   "Capacidad": 54,
   "CodigoPostal": 48010,
   "Longitud": "43.25880109999999",
-  "Latitud": "-2.9346569509261826"
+  "Latitud": "-2.9346569509261826",
+  "Municipio": "Bilbao",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00009",
   "Nombre": "LEKEITIO ATERPETXEA  HOSTEL",
@@ -114,7 +130,9 @@
   "Capacidad": 22,
   "CodigoPostal": 48288,
   "Longitud": "43.3563005",
-  "Latitud": "-2.506768299999976"
+  "Latitud": "-2.506768299999976",
+  "Municipio": "Ispaster",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00010",
   "Nombre": "ZIORTZA BEITIA",
@@ -127,7 +145,9 @@
   "Capacidad": 46,
   "CodigoPostal": 48278,
   "Longitud": "43.247532247026115",
-  "Latitud": "-2.558726650262429"
+  "Latitud": "-2.558726650262429",
+  "Municipio": "Ziortza-Bolibar",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00011",
   "Nombre": "MOON HOSTEL BIO",
@@ -140,7 +160,9 @@
   "Capacidad": 84,
   "CodigoPostal": 48014,
   "Longitud": "43.2722971",
-  "Latitud": "-2.946753899999976"
+  "Latitud": "-2.946753899999976",
+  "Municipio": "Bilbao",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00012",
   "Nombre": "BBK BILBAO GOOD HOSTEL",
@@ -153,7 +175,9 @@
   "Capacidad": 104,
   "CodigoPostal": 48004,
   "Longitud": "43.2467587",
-  "Latitud": "-2.909747100000004"
+  "Latitud": "-2.909747100000004",
+  "Municipio": "Bilbao",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00013",
   "Nombre": "MUNDAKA HOSTEL \u0026amp; SPORTS CAFE",
@@ -166,7 +190,9 @@
   "Capacidad": 36,
   "CodigoPostal": 48360,
   "Longitud": "43.409665581506154",
-  "Latitud": "-2.6984212304802213"
+  "Latitud": "-2.6984212304802213",
+  "Municipio": "Mundaka",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00014",
   "Nombre": "BILBAO ATERPETXEA HOSTEL",
@@ -179,7 +205,9 @@
   "Capacidad": 170,
   "CodigoPostal": 48002,
   "Longitud": "43.26319910000001",
-  "Latitud": "-2.9612724925902967"
+  "Latitud": "-2.9612724925902967",
+  "Municipio": "Bilbao",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00009",
   "Nombre": "LEKEITIO ATERPETXEA  HOSTEL",
@@ -192,7 +220,9 @@
   "Capacidad": 22,
   "CodigoPostal": 48288,
   "Longitud": "43.3563005",
-  "Latitud": "-2.506768299999976"
+  "Latitud": "-2.506768299999976",
+  "Municipio": "Ispaster",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00017",
   "Nombre": "BIDE ONA",
@@ -205,7 +235,9 @@
   "Capacidad": 40,
   "CodigoPostal": 48920,
   "Longitud": "43.31868843102198",
-  "Latitud": "-3.0234571951065163"
+  "Latitud": "-3.0234571951065163",
+  "Municipio": "Portugalete",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00008",
   "Nombre": "BILBAO CENTRAL HOSTEL",
@@ -218,7 +250,9 @@
   "Capacidad": 54,
   "CodigoPostal": 48010,
   "Longitud": "43.25880109999999",
-  "Latitud": "-2.9346569509261826"
+  "Latitud": "-2.9346569509261826",
+  "Municipio": "Bilbao",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00019",
   "Nombre": "QUARTIER  BILBAO",
@@ -231,7 +265,9 @@
   "Capacidad": 78,
   "CodigoPostal": 48005,
   "Longitud": "",
-  "Latitud": ""
+  "Latitud": "",
+  "Municipio": "Bilbao",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -244,7 +280,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00011",
   "Nombre": "MOON HOSTEL BIO",
@@ -257,7 +295,9 @@
   "Capacidad": 84,
   "CodigoPostal": 48014,
   "Longitud": "43.2722971",
-  "Latitud": "-2.946753899999976"
+  "Latitud": "-2.946753899999976",
+  "Municipio": "Bilbao",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00031",
   "Nombre": "BCOOL",
@@ -270,7 +310,9 @@
   "Capacidad": 118,
   "CodigoPostal": 48003,
   "Longitud": "43.25602019999999",
-  "Latitud": "-2.9286334999999326"
+  "Latitud": "-2.9286334999999326",
+  "Municipio": "Bilbao",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00041",
   "Nombre": "BILBAO METROPOLITAN HOSTEL",
@@ -283,7 +325,9 @@
   "Capacidad": 92,
   "CodigoPostal": 48003,
   "Longitud": "43.2565976",
-  "Latitud": "-2.9340224000000035"
+  "Latitud": "-2.9340224000000035",
+  "Municipio": "Bilbao",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BSS00002",
   "Nombre": "GALERNA ZARAUTZ HOSTEL",
@@ -296,7 +340,9 @@
   "Capacidad": 18,
   "CodigoPostal": 20800,
   "Longitud": "43.2834108",
-  "Latitud": "-2.1650723999999855"
+  "Latitud": "-2.1650723999999855",
+  "Municipio": "Zarautz",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00004",
   "Nombre": "URBAN HOUSE",
@@ -309,7 +355,9 @@
   "Capacidad": 30,
   "CodigoPostal": 20004,
   "Longitud": "43.32156459999999",
-  "Latitud": "-1.9827103999999736"
+  "Latitud": "-1.9827103999999736",
+  "Municipio": "Donostia / San Sebastián",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00005",
   "Nombre": "GREEN NEST HOSTEL / UBA ATERPETXEA",
@@ -322,7 +370,9 @@
   "Capacidad": 196,
   "CodigoPostal": 20014,
   "Longitud": "43.30776399999999",
-  "Latitud": "-1.955093161376908"
+  "Latitud": "-1.955093161376908",
+  "Municipio": "Donostia / San Sebastián",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00006",
   "Nombre": "SAN FERMIN 1",
@@ -335,7 +385,9 @@
   "Capacidad": 44,
   "CodigoPostal": 20003,
   "Longitud": "43.323169",
-  "Latitud": "-1.9848454000000402"
+  "Latitud": "-1.9848454000000402",
+  "Municipio": "Donostia / San Sebastián",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00002",
   "Nombre": "GALERNA ZARAUTZ HOSTEL",
@@ -348,7 +400,9 @@
   "Capacidad": 18,
   "CodigoPostal": 20800,
   "Longitud": "43.2834108",
-  "Latitud": "-2.1650723999999855"
+  "Latitud": "-2.1650723999999855",
+  "Municipio": "Zarautz",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00008",
   "Nombre": "ZARAUTZ HOSTEL",
@@ -361,7 +415,9 @@
   "Capacidad": 24,
   "CodigoPostal": 20800,
   "Longitud": "43.2846099",
-  "Latitud": "-2.158893600000056"
+  "Latitud": "-2.158893600000056",
+  "Municipio": "Zarautz",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00002",
   "Nombre": "GALERNA ZARAUTZ HOSTEL",
@@ -374,7 +430,9 @@
   "Capacidad": 18,
   "CodigoPostal": 20800,
   "Longitud": "43.2834108",
-  "Latitud": "-2.1650723999999855"
+  "Latitud": "-2.1650723999999855",
+  "Municipio": "Zarautz",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00010",
   "Nombre": "DOWNTOWN RIVER",
@@ -387,7 +445,9 @@
   "Capacidad": 23,
   "CodigoPostal": 20005,
   "Longitud": "43.3184901",
-  "Latitud": "-1.9794379999999592"
+  "Latitud": "-1.9794379999999592",
+  "Municipio": "Donostia / San Sebastián",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00011",
   "Nombre": "LASTURKO ATERPETXEA",
@@ -400,7 +460,9 @@
   "Capacidad": 60,
   "CodigoPostal": 20829,
   "Longitud": "43.250732472406284",
-  "Latitud": "-2.3333774753937178"
+  "Latitud": "-2.3333774753937178",
+  "Municipio": "Deba",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00012",
   "Nombre": "UZTARTZA",
@@ -413,7 +475,9 @@
   "Capacidad": 47,
   "CodigoPostal": 20150,
   "Longitud": "43.2032763869082",
-  "Latitud": "-2.0495143981476076"
+  "Latitud": "-2.0495143981476076",
+  "Municipio": "Aduna",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00004",
   "Nombre": "URBAN HOUSE",
@@ -426,7 +490,9 @@
   "Capacidad": 30,
   "CodigoPostal": 20004,
   "Longitud": "43.32156459999999",
-  "Latitud": "-1.9827103999999736"
+  "Latitud": "-1.9827103999999736",
+  "Municipio": "Donostia / San Sebastián",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00006",
   "Nombre": "SAN FERMIN 1",
@@ -439,7 +505,9 @@
   "Capacidad": 44,
   "CodigoPostal": 20003,
   "Longitud": "43.323169",
-  "Latitud": "-1.9848454000000402"
+  "Latitud": "-1.9848454000000402",
+  "Municipio": "Donostia / San Sebastián",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BBI00017",
   "Nombre": "BIDE ONA",
@@ -452,7 +520,9 @@
   "Capacidad": 40,
   "CodigoPostal": 48920,
   "Longitud": "43.31868843102198",
-  "Latitud": "-3.0234571951065163"
+  "Latitud": "-3.0234571951065163",
+  "Municipio": "Portugalete",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00017",
   "Nombre": "BIDE ONA",
@@ -465,7 +535,9 @@
   "Capacidad": 40,
   "CodigoPostal": 48920,
   "Longitud": "43.31868843102198",
-  "Latitud": "-3.0234571951065163"
+  "Latitud": "-3.0234571951065163",
+  "Municipio": "Portugalete",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BSS00019",
   "Nombre": "BEIZAMAKO ATERPETXEA",
@@ -478,7 +550,9 @@
   "Capacidad": 20,
   "CodigoPostal": 20739,
   "Longitud": "43.13396891219535",
-  "Latitud": "-2.1995434547866353"
+  "Latitud": "-2.1995434547866353",
+  "Municipio": "Beizama",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00020",
   "Nombre": "ARRITXULO ATERPETXEA",
@@ -491,7 +565,9 @@
   "Capacidad": 82,
   "CodigoPostal": 20180,
   "Longitud": "43.272218123905304",
-  "Latitud": "-1.7958200321411368"
+  "Latitud": "-1.7958200321411368",
+  "Municipio": "Oiartzun",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00004",
   "Nombre": "URBAN HOUSE",
@@ -504,7 +580,9 @@
   "Capacidad": 30,
   "CodigoPostal": 20004,
   "Longitud": "43.32156459999999",
-  "Latitud": "-1.9827103999999736"
+  "Latitud": "-1.9827103999999736",
+  "Municipio": "Donostia / San Sebastián",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00023",
   "Nombre": "A ROOM IN THE CITY",
@@ -517,7 +595,9 @@
   "Capacidad": 214,
   "CodigoPostal": 20006,
   "Longitud": "43.3163835",
-  "Latitud": "-1.9837449000000333"
+  "Latitud": "-1.9837449000000333",
+  "Municipio": "Donostia / San Sebastián",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00024",
   "Nombre": "KOISI HOSTEL",
@@ -530,7 +610,9 @@
   "Capacidad": 124,
   "CodigoPostal": 20008,
   "Longitud": "43.3110398",
-  "Latitud": "-2.0009499000000233"
+  "Latitud": "-2.0009499000000233",
+  "Municipio": "Donostia / San Sebastián",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00026",
   "Nombre": "ARANTZAZU ATERPETXEA",
@@ -543,7 +625,9 @@
   "Capacidad": 56,
   "CodigoPostal": 20567,
   "Longitud": "42.9799830543636",
-  "Latitud": "-2.4010860156220133"
+  "Latitud": "-2.4010860156220133",
+  "Municipio": "Oñati",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00027",
   "Nombre": "KOBA HOSTEL",
@@ -556,7 +640,9 @@
   "Capacidad": 68,
   "CodigoPostal": 20001,
   "Longitud": "43.32284119914607",
-  "Latitud": "-1.973007309192667"
+  "Latitud": "-1.973007309192667",
+  "Municipio": "Donostia / San Sebastián",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BBI00013",
   "Nombre": "MUNDAKA HOSTEL \u0026amp; SPORTS CAFE",
@@ -569,7 +655,9 @@
   "Capacidad": 36,
   "CodigoPostal": 48360,
   "Longitud": "43.409665581506154",
-  "Latitud": "-2.6984212304802213"
+  "Latitud": "-2.6984212304802213",
+  "Municipio": "Mundaka",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BSS00019",
   "Nombre": "BEIZAMAKO ATERPETXEA",
@@ -582,7 +670,9 @@
   "Capacidad": 20,
   "CodigoPostal": 20739,
   "Longitud": "43.13396891219535",
-  "Latitud": "-2.1995434547866353"
+  "Latitud": "-2.1995434547866353",
+  "Municipio": "Beizama",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -595,7 +685,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00009",
   "Nombre": "LEKEITIO ATERPETXEA  HOSTEL",
@@ -608,7 +700,9 @@
   "Capacidad": 22,
   "CodigoPostal": 48288,
   "Longitud": "43.3563005",
-  "Latitud": "-2.506768299999976"
+  "Latitud": "-2.506768299999976",
+  "Municipio": "Ispaster",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00004",
   "Nombre": "URKIXA BEKOA",
@@ -621,7 +715,9 @@
   "Capacidad": 11,
   "CodigoPostal": 48710,
   "Longitud": "43.32690386",
-  "Latitud": "-2.44798009"
+  "Latitud": "-2.44798009",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -634,7 +730,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -647,7 +745,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -660,7 +760,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -673,7 +775,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -686,7 +790,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -699,7 +805,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -712,7 +820,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -725,7 +835,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -738,7 +850,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -751,7 +865,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -764,7 +880,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -777,7 +895,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -790,7 +910,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -803,7 +925,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -816,7 +940,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -829,7 +955,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -842,7 +970,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -855,7 +985,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00067",
   "Nombre": "ORUBIXE",
@@ -868,7 +1000,9 @@
   "Capacidad": 14,
   "CodigoPostal": 48710,
   "Longitud": "43.31283606",
-  "Latitud": "-2.454613"
+  "Latitud": "-2.454613",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -881,7 +1015,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -894,7 +1030,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00071",
   "Nombre": "EL AVELLANO-URRITZA",
@@ -907,7 +1045,9 @@
   "Capacidad": 7,
   "CodigoPostal": 48891,
   "Longitud": "43.22869118",
-  "Latitud": "-3.37076679"
+  "Latitud": "-3.37076679",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00072",
   "Nombre": "IBARRONDO ETXEA",
@@ -920,7 +1060,9 @@
   "Capacidad": 9,
   "CodigoPostal": 48100,
   "Longitud": "43.36859399",
-  "Latitud": "-2.81639778"
+  "Latitud": "-2.81639778",
+  "Municipio": "Mungia",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -933,7 +1075,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -946,7 +1090,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -959,7 +1105,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -972,7 +1120,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -985,7 +1135,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -998,7 +1150,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -1011,7 +1165,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -1024,7 +1180,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00067",
   "Nombre": "ORUBIXE",
@@ -1037,7 +1195,9 @@
   "Capacidad": 14,
   "CodigoPostal": 48710,
   "Longitud": "43.31283606",
-  "Latitud": "-2.454613"
+  "Latitud": "-2.454613",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1050,7 +1210,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1063,7 +1225,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -1076,7 +1240,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -1089,7 +1255,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -1102,7 +1270,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1115,7 +1285,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00072",
   "Nombre": "IBARRONDO ETXEA",
@@ -1128,7 +1300,9 @@
   "Capacidad": 9,
   "CodigoPostal": 48100,
   "Longitud": "43.36859399",
-  "Latitud": "-2.81639778"
+  "Latitud": "-2.81639778",
+  "Municipio": "Mungia",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -1141,7 +1315,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -1154,7 +1330,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -1167,7 +1345,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1180,7 +1360,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -1193,7 +1375,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -1206,7 +1390,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -1219,7 +1405,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1232,7 +1420,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1245,7 +1435,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1258,7 +1450,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1271,7 +1465,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -1284,7 +1480,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -1297,7 +1495,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -1310,7 +1510,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -1323,7 +1525,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1336,7 +1540,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -1349,7 +1555,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1362,7 +1570,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1375,7 +1585,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1388,7 +1600,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -1401,7 +1615,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -1414,7 +1630,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -1427,7 +1645,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BSS00002",
   "Nombre": "GALERNA ZARAUTZ HOSTEL",
@@ -1440,7 +1660,9 @@
   "Capacidad": 18,
   "CodigoPostal": 20800,
   "Longitud": "43.2834108",
-  "Latitud": "-2.1650723999999855"
+  "Latitud": "-2.1650723999999855",
+  "Municipio": "Zarautz",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -1453,7 +1675,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1466,7 +1690,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1479,7 +1705,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1492,7 +1720,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00004",
   "Nombre": "URKIXA BEKOA",
@@ -1505,7 +1735,9 @@
   "Capacidad": 11,
   "CodigoPostal": 48710,
   "Longitud": "43.32690386",
-  "Latitud": "-2.44798009"
+  "Latitud": "-2.44798009",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1518,7 +1750,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -1531,7 +1765,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1544,7 +1780,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -1557,7 +1795,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -1570,7 +1810,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -1583,7 +1825,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -1596,7 +1840,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1609,7 +1855,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1622,7 +1870,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1635,7 +1885,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -1648,7 +1900,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00067",
   "Nombre": "ORUBIXE",
@@ -1661,7 +1915,9 @@
   "Capacidad": 14,
   "CodigoPostal": 48710,
   "Longitud": "43.31283606",
-  "Latitud": "-2.454613"
+  "Latitud": "-2.454613",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1674,7 +1930,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00067",
   "Nombre": "ORUBIXE",
@@ -1687,7 +1945,9 @@
   "Capacidad": 14,
   "CodigoPostal": 48710,
   "Longitud": "43.31283606",
-  "Latitud": "-2.454613"
+  "Latitud": "-2.454613",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00067",
   "Nombre": "ORUBIXE",
@@ -1700,7 +1960,9 @@
   "Capacidad": 14,
   "CodigoPostal": 48710,
   "Longitud": "43.31283606",
-  "Latitud": "-2.454613"
+  "Latitud": "-2.454613",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -1713,7 +1975,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1726,7 +1990,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -1739,7 +2005,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1752,7 +2020,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -1765,7 +2035,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -1778,7 +2050,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -1791,7 +2065,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1804,7 +2080,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1817,7 +2095,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1830,7 +2110,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -1843,7 +2125,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1856,7 +2140,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -1869,7 +2155,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1882,7 +2170,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00067",
   "Nombre": "ORUBIXE",
@@ -1895,7 +2185,9 @@
   "Capacidad": 14,
   "CodigoPostal": 48710,
   "Longitud": "43.31283606",
-  "Latitud": "-2.454613"
+  "Latitud": "-2.454613",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00067",
   "Nombre": "ORUBIXE",
@@ -1908,7 +2200,9 @@
   "Capacidad": 14,
   "CodigoPostal": 48710,
   "Longitud": "43.31283606",
-  "Latitud": "-2.454613"
+  "Latitud": "-2.454613",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1921,7 +2215,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KSS00107",
   "Nombre": "ONDARRE",
@@ -1934,7 +2230,9 @@
   "Capacidad": 15,
   "CodigoPostal": 20214,
   "Longitud": "43.01286607",
-  "Latitud": "-2.25322943"
+  "Latitud": "-2.25322943",
+  "Municipio": "Segura",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -1947,7 +2245,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -1960,7 +2260,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -1973,7 +2275,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -1986,7 +2290,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -1999,7 +2305,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -2012,7 +2320,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2025,7 +2335,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2038,7 +2350,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -2051,7 +2365,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -2064,7 +2380,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2077,7 +2395,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -2090,7 +2410,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2103,7 +2425,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2116,7 +2440,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2129,7 +2455,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -2142,7 +2470,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2155,7 +2485,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00067",
   "Nombre": "ORUBIXE",
@@ -2168,7 +2500,9 @@
   "Capacidad": 14,
   "CodigoPostal": 48710,
   "Longitud": "43.31283606",
-  "Latitud": "-2.454613"
+  "Latitud": "-2.454613",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -2181,7 +2515,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2194,7 +2530,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2207,7 +2545,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00067",
   "Nombre": "ORUBIXE",
@@ -2220,7 +2560,9 @@
   "Capacidad": 14,
   "CodigoPostal": 48710,
   "Longitud": "43.31283606",
-  "Latitud": "-2.454613"
+  "Latitud": "-2.454613",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2233,7 +2575,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -2246,7 +2590,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -2259,7 +2605,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -2272,7 +2620,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2285,7 +2635,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -2298,7 +2650,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -2311,7 +2665,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -2324,7 +2680,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -2337,7 +2695,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -2350,7 +2710,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2363,7 +2725,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -2376,7 +2740,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -2389,7 +2755,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -2402,7 +2770,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00072",
   "Nombre": "IBARRONDO ETXEA",
@@ -2415,7 +2785,9 @@
   "Capacidad": 9,
   "CodigoPostal": 48100,
   "Longitud": "43.36859399",
-  "Latitud": "-2.81639778"
+  "Latitud": "-2.81639778",
+  "Municipio": "Mungia",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -2428,7 +2800,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -2441,7 +2815,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2454,7 +2830,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -2467,7 +2845,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2480,7 +2860,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -2493,7 +2875,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2506,7 +2890,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KSS00165",
   "Nombre": "MOMOTEGI",
@@ -2519,7 +2905,9 @@
   "Capacidad": 5,
   "CodigoPostal": 20180,
   "Longitud": "43.289158286846984",
-  "Latitud": "-1.8025796438415682"
+  "Latitud": "-1.8025796438415682",
+  "Municipio": "Oiartzun",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KSS00165",
   "Nombre": "MOMOTEGI",
@@ -2532,7 +2920,9 @@
   "Capacidad": 5,
   "CodigoPostal": 20180,
   "Longitud": "43.289158286846984",
-  "Latitud": "-1.8025796438415682"
+  "Latitud": "-1.8025796438415682",
+  "Municipio": "Oiartzun",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -2545,7 +2935,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -2558,7 +2950,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -2571,7 +2965,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -2584,7 +2980,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -2597,7 +2995,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00004",
   "Nombre": "URKIXA BEKOA",
@@ -2610,7 +3010,9 @@
   "Capacidad": 11,
   "CodigoPostal": 48710,
   "Longitud": "43.32690386",
-  "Latitud": "-2.44798009"
+  "Latitud": "-2.44798009",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -2623,7 +3025,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -2636,7 +3040,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -2649,7 +3055,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -2662,7 +3070,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2675,7 +3085,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2688,7 +3100,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -2701,7 +3115,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00072",
   "Nombre": "IBARRONDO ETXEA",
@@ -2714,7 +3130,9 @@
   "Capacidad": 9,
   "CodigoPostal": 48100,
   "Longitud": "43.36859399",
-  "Latitud": "-2.81639778"
+  "Latitud": "-2.81639778",
+  "Municipio": "Mungia",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -2727,7 +3145,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -2740,7 +3160,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -2753,7 +3175,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00071",
   "Nombre": "EL AVELLANO-URRITZA",
@@ -2766,7 +3190,9 @@
   "Capacidad": 7,
   "CodigoPostal": 48891,
   "Longitud": "43.22869118",
-  "Latitud": "-3.37076679"
+  "Latitud": "-3.37076679",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -2779,7 +3205,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -2792,7 +3220,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -2805,7 +3235,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -2818,7 +3250,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -2831,7 +3265,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -2844,7 +3280,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -2857,7 +3295,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -2870,7 +3310,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -2883,7 +3325,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -2896,7 +3340,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -2909,7 +3355,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -2922,7 +3370,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00072",
   "Nombre": "IBARRONDO ETXEA",
@@ -2935,7 +3385,9 @@
   "Capacidad": 9,
   "CodigoPostal": 48100,
   "Longitud": "43.36859399",
-  "Latitud": "-2.81639778"
+  "Latitud": "-2.81639778",
+  "Municipio": "Mungia",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -2948,7 +3400,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -2961,7 +3415,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -2974,7 +3430,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -2987,7 +3445,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00072",
   "Nombre": "IBARRONDO ETXEA",
@@ -3000,7 +3460,9 @@
   "Capacidad": 9,
   "CodigoPostal": 48100,
   "Longitud": "43.36859399",
-  "Latitud": "-2.81639778"
+  "Latitud": "-2.81639778",
+  "Municipio": "Mungia",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KSS00165",
   "Nombre": "MOMOTEGI",
@@ -3013,7 +3475,9 @@
   "Capacidad": 5,
   "CodigoPostal": 20180,
   "Longitud": "43.289158286846984",
-  "Latitud": "-1.8025796438415682"
+  "Latitud": "-1.8025796438415682",
+  "Municipio": "Oiartzun",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KBI00004",
   "Nombre": "URKIXA BEKOA",
@@ -3026,7 +3490,9 @@
   "Capacidad": 11,
   "CodigoPostal": 48710,
   "Longitud": "43.32690386",
-  "Latitud": "-2.44798009"
+  "Latitud": "-2.44798009",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "PBI00001",
   "Nombre": "PORTUONDO",
@@ -3039,7 +3505,9 @@
   "Capacidad": 344,
   "CodigoPostal": 48360,
   "Longitud": "43.39902971835741",
-  "Latitud": "-2.6962557435035706"
+  "Latitud": "-2.6962557435035706",
+  "Municipio": "Mundaka",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "PBI00003",
   "Nombre": "ENDAI",
@@ -3052,7 +3520,9 @@
   "Capacidad": 238,
   "CodigoPostal": 48289,
   "Longitud": "43.3544026",
-  "Latitud": "-2.48560095"
+  "Latitud": "-2.48560095",
+  "Municipio": "Mendexa",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "PBI00004",
   "Nombre": "LEAGI",
@@ -3065,7 +3535,9 @@
   "Capacidad": 622,
   "CodigoPostal": 48289,
   "Longitud": "43.351796051825026",
-  "Latitud": "-2.4938573361962426"
+  "Latitud": "-2.4938573361962426",
+  "Municipio": "Mendexa",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "PBI00005",
   "Nombre": "SOPELANA",
@@ -3078,7 +3550,9 @@
   "Capacidad": 600,
   "CodigoPostal": 48600,
   "Longitud": "43.38924397",
-  "Latitud": "-2.98579033"
+  "Latitud": "-2.98579033",
+  "Municipio": "Sopela",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "PBI00006",
   "Nombre": "ARRIEN",
@@ -3091,7 +3565,9 @@
   "Capacidad": 385,
   "CodigoPostal": 48630,
   "Longitud": "43.41894043",
-  "Latitud": "-2.93585713"
+  "Latitud": "-2.93585713",
+  "Municipio": "Gorliz",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "PBI00009",
   "Nombre": "ÁREA AUTOCARAVANAS Y CARAVANAS LANESTOSA",
@@ -3104,7 +3580,9 @@
   "Capacidad": 0,
   "CodigoPostal": 48895,
   "Longitud": "43.2193074",
-  "Latitud": "-3.4403694999999743"
+  "Latitud": "-3.4403694999999743",
+  "Municipio": "Lanestosa",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00017",
   "Nombre": "BIDE ONA",
@@ -3117,7 +3595,9 @@
   "Capacidad": 40,
   "CodigoPostal": 48920,
   "Longitud": "43.31868843102198",
-  "Latitud": "-3.0234571951065163"
+  "Latitud": "-3.0234571951065163",
+  "Municipio": "Portugalete",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "PSS00001",
   "Nombre": "OLIDEN",
@@ -3130,7 +3610,9 @@
   "Capacidad": 235,
   "CodigoPostal": 20180,
   "Longitud": "43.3077233709928",
-  "Latitud": "-1.88042163848877"
+  "Latitud": "-1.88042163848877",
+  "Municipio": "Oiartzun",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "PSS00002",
   "Nombre": "GRAN CAMPING ZARAUZ",
@@ -3143,7 +3625,9 @@
   "Capacidad": 840,
   "CodigoPostal": 20800,
   "Longitud": "43.28997263",
-  "Latitud": "-2.14632314"
+  "Latitud": "-2.14632314",
+  "Municipio": "Zarautz",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "PSS00005",
   "Nombre": "PLAYA DE ORIO",
@@ -3156,7 +3640,9 @@
   "Capacidad": 764,
   "CodigoPostal": 20810,
   "Longitud": "43.28650760882309",
-  "Latitud": "-2.1258437633514404"
+  "Latitud": "-2.1258437633514404",
+  "Municipio": "Orio",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "PSS00006",
   "Nombre": "CAMPING BUNGALOWS IGUELDO SAN SEBASTIAN",
@@ -3169,7 +3655,9 @@
   "Capacidad": 901,
   "CodigoPostal": 20008,
   "Longitud": "43.304125953230994",
-  "Latitud": "-2.0461504180981365"
+  "Latitud": "-2.0461504180981365",
+  "Municipio": "Donostia / San Sebastián",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "PSS00009",
   "Nombre": "AITZETA",
@@ -3182,7 +3670,9 @@
   "Capacidad": 271,
   "CodigoPostal": 20830,
   "Longitud": "43.30512164",
-  "Latitud": "-2.37855921"
+  "Latitud": "-2.37855921",
+  "Municipio": "Mutriku",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "PSS00010",
   "Nombre": "SATURRARAN",
@@ -3195,7 +3685,9 @@
   "Capacidad": 100,
   "CodigoPostal": 20830,
   "Longitud": "43.316956591278554",
-  "Latitud": "-2.411198616027832"
+  "Latitud": "-2.411198616027832",
+  "Municipio": "Mutriku",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "PSS00011",
   "Nombre": "TALAI MENDI",
@@ -3208,7 +3700,9 @@
   "Capacidad": 900,
   "CodigoPostal": 20800,
   "Longitud": "43.28602078",
-  "Latitud": "-2.15516712"
+  "Latitud": "-2.15516712",
+  "Municipio": "Zarautz",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "PSS00012",
   "Nombre": "GALDONA",
@@ -3221,7 +3715,9 @@
   "Capacidad": 120,
   "CodigoPostal": 20830,
   "Longitud": "43.3175001",
-  "Latitud": "-2.40091941"
+  "Latitud": "-2.40091941",
+  "Municipio": "Mutriku",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "PSS00012",
   "Nombre": "GALDONA",
@@ -3234,7 +3730,9 @@
   "Capacidad": 120,
   "CodigoPostal": 20830,
   "Longitud": "43.3175001",
-  "Latitud": "-2.40091941"
+  "Latitud": "-2.40091941",
+  "Municipio": "Mutriku",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "PSS00014",
   "Nombre": "JAIZKIBEL",
@@ -3247,7 +3745,9 @@
   "Capacidad": 240,
   "CodigoPostal": 20280,
   "Longitud": "43.3662176889694",
-  "Latitud": "-1.80531978607178"
+  "Latitud": "-1.80531978607178",
+  "Municipio": "Hondarribia",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "PSS00015",
   "Nombre": "ITXASPE",
@@ -3260,7 +3760,9 @@
   "Capacidad": 483,
   "CodigoPostal": 20829,
   "Longitud": "43.29413555",
-  "Latitud": "-2.32960651"
+  "Latitud": "-2.32960651",
+  "Municipio": "Deba",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "PSS00016",
   "Nombre": "ZINGIRA",
@@ -3273,7 +3775,9 @@
   "Capacidad": 500,
   "CodigoPostal": 20809,
   "Longitud": "43.25583904325993",
-  "Latitud": "-2.131024135131156"
+  "Latitud": "-2.131024135131156",
+  "Municipio": "Aia",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "PSS00017",
   "Nombre": "FARO DE HIGUER",
@@ -3286,7 +3790,9 @@
   "Capacidad": 416,
   "CodigoPostal": 20280,
   "Longitud": "43.39229757",
-  "Latitud": "-1.79449757"
+  "Latitud": "-1.79449757",
+  "Municipio": "Hondarribia",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "BSS00019",
   "Nombre": "BEIZAMAKO ATERPETXEA",
@@ -3299,7 +3805,9 @@
   "Capacidad": 20,
   "CodigoPostal": 20739,
   "Longitud": "43.13396891219535",
-  "Latitud": "-2.1995434547866353"
+  "Latitud": "-2.1995434547866353",
+  "Municipio": "Beizama",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "PSS00020",
   "Nombre": "IGARA DE SAN SEBASTIAN",
@@ -3312,7 +3820,9 @@
   "Capacidad": 373,
   "CodigoPostal": 20018,
   "Longitud": "43.29672288592722",
-  "Latitud": "-2.0374213349182355"
+  "Latitud": "-2.0374213349182355",
+  "Municipio": "Donostia / San Sebastián",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "PSS00021",
   "Nombre": "ZUMAIA",
@@ -3325,7 +3835,9 @@
   "Capacidad": 497,
   "CodigoPostal": 20750,
   "Longitud": "43.289095253587625",
-  "Latitud": "-2.247784544982892"
+  "Latitud": "-2.247784544982892",
+  "Municipio": "Zumaia",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "PBI00009",
   "Nombre": "ÁREA AUTOCARAVANAS Y CARAVANAS LANESTOSA",
@@ -3338,7 +3850,9 @@
   "Capacidad": 0,
   "CodigoPostal": 48895,
   "Longitud": "43.2193074",
-  "Latitud": "-3.4403694999999743"
+  "Latitud": "-3.4403694999999743",
+  "Municipio": "Lanestosa",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "PVI00001",
   "Nombre": "IBAYA",
@@ -3351,7 +3865,9 @@
   "Capacidad": 250,
   "CodigoPostal": 1195,
   "Longitud": "42.83344001",
-  "Latitud": "-2.72248071"
+  "Latitud": "-2.72248071",
+  "Municipio": "Vitoria-Gasteiz",
+  "Territorio": "Araba/Álava"
 }{
   "Signatura": "PVI00002",
   "Nombre": "ANGOSTO",
@@ -3364,7 +3880,9 @@
   "Capacidad": 244,
   "CodigoPostal": 1426,
   "Longitud": "42.84247662",
-  "Latitud": "-3.06868228"
+  "Latitud": "-3.06868228",
+  "Municipio": "Valdegovía/Gaubea",
+  "Territorio": "Araba/Álava"
 }{
   "Signatura": "PVI00003",
   "Nombre": "EL ROBLE VERDE",
@@ -3377,7 +3895,9 @@
   "Capacidad": 434,
   "CodigoPostal": 1428,
   "Longitud": "42.795392582266416",
-  "Latitud": "-2.879152697192353"
+  "Latitud": "-2.879152697192353",
+  "Municipio": "Erriberagoitia/Ribera Alta",
+  "Territorio": "Araba/Álava"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -3390,7 +3910,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -3403,7 +3925,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -3416,7 +3940,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KSS00107",
   "Nombre": "ONDARRE",
@@ -3429,7 +3955,9 @@
   "Capacidad": 15,
   "CodigoPostal": 20214,
   "Longitud": "43.01286607",
-  "Latitud": "-2.25322943"
+  "Latitud": "-2.25322943",
+  "Municipio": "Segura",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -3442,7 +3970,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00072",
   "Nombre": "IBARRONDO ETXEA",
@@ -3455,7 +3985,9 @@
   "Capacidad": 9,
   "CodigoPostal": 48100,
   "Longitud": "43.36859399",
-  "Latitud": "-2.81639778"
+  "Latitud": "-2.81639778",
+  "Municipio": "Mungia",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BSS00002",
   "Nombre": "GALERNA ZARAUTZ HOSTEL",
@@ -3468,7 +4000,9 @@
   "Capacidad": 18,
   "CodigoPostal": 20800,
   "Longitud": "43.2834108",
-  "Latitud": "-2.1650723999999855"
+  "Latitud": "-2.1650723999999855",
+  "Municipio": "Zarautz",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -3481,7 +4015,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -3494,7 +4030,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3507,7 +4045,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -3520,7 +4060,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -3533,7 +4075,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -3546,7 +4090,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00071",
   "Nombre": "EL AVELLANO-URRITZA",
@@ -3559,7 +4105,9 @@
   "Capacidad": 7,
   "CodigoPostal": 48891,
   "Longitud": "43.22869118",
-  "Latitud": "-3.37076679"
+  "Latitud": "-3.37076679",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -3572,7 +4120,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -3585,7 +4135,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -3598,7 +4150,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3611,7 +4165,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3624,7 +4180,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00071",
   "Nombre": "EL AVELLANO-URRITZA",
@@ -3637,7 +4195,9 @@
   "Capacidad": 7,
   "CodigoPostal": 48891,
   "Longitud": "43.22869118",
-  "Latitud": "-3.37076679"
+  "Latitud": "-3.37076679",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3650,7 +4210,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00072",
   "Nombre": "IBARRONDO ETXEA",
@@ -3663,7 +4225,9 @@
   "Capacidad": 9,
   "CodigoPostal": 48100,
   "Longitud": "43.36859399",
-  "Latitud": "-2.81639778"
+  "Latitud": "-2.81639778",
+  "Municipio": "Mungia",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3676,7 +4240,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -3689,7 +4255,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00004",
   "Nombre": "URKIXA BEKOA",
@@ -3702,7 +4270,9 @@
   "Capacidad": 11,
   "CodigoPostal": 48710,
   "Longitud": "43.32690386",
-  "Latitud": "-2.44798009"
+  "Latitud": "-2.44798009",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3715,7 +4285,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3728,7 +4300,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -3741,7 +4315,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -3754,7 +4330,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -3767,7 +4345,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3780,7 +4360,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3793,7 +4375,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3806,7 +4390,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3819,7 +4405,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3832,7 +4420,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3845,7 +4435,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3858,7 +4450,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3871,7 +4465,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3884,7 +4480,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -3897,7 +4495,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3910,7 +4510,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00071",
   "Nombre": "EL AVELLANO-URRITZA",
@@ -3923,7 +4525,9 @@
   "Capacidad": 7,
   "CodigoPostal": 48891,
   "Longitud": "43.22869118",
-  "Latitud": "-3.37076679"
+  "Latitud": "-3.37076679",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00072",
   "Nombre": "IBARRONDO ETXEA",
@@ -3936,7 +4540,9 @@
   "Capacidad": 9,
   "CodigoPostal": 48100,
   "Longitud": "43.36859399",
-  "Latitud": "-2.81639778"
+  "Latitud": "-2.81639778",
+  "Municipio": "Mungia",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -3949,7 +4555,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -3962,7 +4570,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -3975,7 +4585,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -3988,7 +4600,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4001,7 +4615,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -4014,7 +4630,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -4027,7 +4645,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4040,7 +4660,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -4053,7 +4675,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4066,7 +4690,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4079,7 +4705,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4092,7 +4720,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -4105,7 +4735,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4118,7 +4750,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -4131,7 +4765,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4144,7 +4780,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4157,7 +4795,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4170,7 +4810,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00067",
   "Nombre": "ORUBIXE",
@@ -4183,7 +4825,9 @@
   "Capacidad": 14,
   "CodigoPostal": 48710,
   "Longitud": "43.31283606",
-  "Latitud": "-2.454613"
+  "Latitud": "-2.454613",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4196,7 +4840,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4209,7 +4855,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -4222,7 +4870,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4235,7 +4885,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4248,7 +4900,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -4261,7 +4915,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4274,7 +4930,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00004",
   "Nombre": "URKIXA BEKOA",
@@ -4287,7 +4945,9 @@
   "Capacidad": 11,
   "CodigoPostal": 48710,
   "Longitud": "43.32690386",
-  "Latitud": "-2.44798009"
+  "Latitud": "-2.44798009",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -4300,7 +4960,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00071",
   "Nombre": "EL AVELLANO-URRITZA",
@@ -4313,7 +4975,9 @@
   "Capacidad": 7,
   "CodigoPostal": 48891,
   "Longitud": "43.22869118",
-  "Latitud": "-3.37076679"
+  "Latitud": "-3.37076679",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -4326,7 +4990,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -4339,7 +5005,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BSS00008",
   "Nombre": "ZARAUTZ HOSTEL",
@@ -4352,7 +5020,9 @@
   "Capacidad": 24,
   "CodigoPostal": 20800,
   "Longitud": "43.2846099",
-  "Latitud": "-2.158893600000056"
+  "Latitud": "-2.158893600000056",
+  "Municipio": "Zarautz",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KBI00072",
   "Nombre": "IBARRONDO ETXEA",
@@ -4365,7 +5035,9 @@
   "Capacidad": 9,
   "CodigoPostal": 48100,
   "Longitud": "43.36859399",
-  "Latitud": "-2.81639778"
+  "Latitud": "-2.81639778",
+  "Municipio": "Mungia",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -4378,7 +5050,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4391,7 +5065,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4404,7 +5080,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00067",
   "Nombre": "ORUBIXE",
@@ -4417,7 +5095,9 @@
   "Capacidad": 14,
   "CodigoPostal": 48710,
   "Longitud": "43.31283606",
-  "Latitud": "-2.454613"
+  "Latitud": "-2.454613",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BSS00002",
   "Nombre": "GALERNA ZARAUTZ HOSTEL",
@@ -4430,7 +5110,9 @@
   "Capacidad": 18,
   "CodigoPostal": 20800,
   "Longitud": "43.2834108",
-  "Latitud": "-2.1650723999999855"
+  "Latitud": "-2.1650723999999855",
+  "Municipio": "Zarautz",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4443,7 +5125,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -4456,7 +5140,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -4469,7 +5155,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00004",
   "Nombre": "URKIXA BEKOA",
@@ -4482,7 +5170,9 @@
   "Capacidad": 11,
   "CodigoPostal": 48710,
   "Longitud": "43.32690386",
-  "Latitud": "-2.44798009"
+  "Latitud": "-2.44798009",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -4495,7 +5185,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -4508,7 +5200,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KSS00165",
   "Nombre": "MOMOTEGI",
@@ -4521,7 +5215,9 @@
   "Capacidad": 5,
   "CodigoPostal": 20180,
   "Longitud": "43.289158286846984",
-  "Latitud": "-1.8025796438415682"
+  "Latitud": "-1.8025796438415682",
+  "Municipio": "Oiartzun",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -4534,7 +5230,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "XSS00007",
   "Nombre": "AITZARRI",
@@ -4547,7 +5245,9 @@
   "Capacidad": 3,
   "CodigoPostal": 20180,
   "Longitud": "43.28304994",
-  "Latitud": "-1.85239898"
+  "Latitud": "-1.85239898",
+  "Municipio": "Oiartzun",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -4560,7 +5260,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00072",
   "Nombre": "IBARRONDO ETXEA",
@@ -4573,7 +5275,9 @@
   "Capacidad": 9,
   "CodigoPostal": 48100,
   "Longitud": "43.36859399",
-  "Latitud": "-2.81639778"
+  "Latitud": "-2.81639778",
+  "Municipio": "Mungia",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "XSS00007",
   "Nombre": "AITZARRI",
@@ -4586,7 +5290,9 @@
   "Capacidad": 3,
   "CodigoPostal": 20180,
   "Longitud": "43.28304994",
-  "Latitud": "-1.85239898"
+  "Latitud": "-1.85239898",
+  "Municipio": "Oiartzun",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4599,7 +5305,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -4612,7 +5320,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4625,7 +5335,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -4638,7 +5350,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -4651,7 +5365,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00004",
   "Nombre": "URKIXA BEKOA",
@@ -4664,7 +5380,9 @@
   "Capacidad": 11,
   "CodigoPostal": 48710,
   "Longitud": "43.32690386",
-  "Latitud": "-2.44798009"
+  "Latitud": "-2.44798009",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -4677,7 +5395,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00004",
   "Nombre": "URKIXA BEKOA",
@@ -4690,7 +5410,9 @@
   "Capacidad": 11,
   "CodigoPostal": 48710,
   "Longitud": "43.32690386",
-  "Latitud": "-2.44798009"
+  "Latitud": "-2.44798009",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -4703,7 +5425,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -4716,7 +5440,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -4729,7 +5455,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4742,7 +5470,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4755,7 +5485,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -4768,7 +5500,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4781,7 +5515,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4794,7 +5530,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00004",
   "Nombre": "URKIXA BEKOA",
@@ -4807,7 +5545,9 @@
   "Capacidad": 11,
   "CodigoPostal": 48710,
   "Longitud": "43.32690386",
-  "Latitud": "-2.44798009"
+  "Latitud": "-2.44798009",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -4820,7 +5560,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4833,7 +5575,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -4846,7 +5590,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4859,7 +5605,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -4872,7 +5620,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -4885,7 +5635,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -4898,7 +5650,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -4911,7 +5665,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4924,7 +5680,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4937,7 +5695,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4950,7 +5710,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4963,7 +5725,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -4976,7 +5740,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -4989,7 +5755,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00004",
   "Nombre": "URKIXA BEKOA",
@@ -5002,7 +5770,9 @@
   "Capacidad": 11,
   "CodigoPostal": 48710,
   "Longitud": "43.32690386",
-  "Latitud": "-2.44798009"
+  "Latitud": "-2.44798009",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -5015,7 +5785,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -5028,7 +5800,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -5041,7 +5815,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5054,7 +5830,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00004",
   "Nombre": "URKIXA BEKOA",
@@ -5067,7 +5845,9 @@
   "Capacidad": 11,
   "CodigoPostal": 48710,
   "Longitud": "43.32690386",
-  "Latitud": "-2.44798009"
+  "Latitud": "-2.44798009",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5080,7 +5860,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KSS00165",
   "Nombre": "MOMOTEGI",
@@ -5093,7 +5875,9 @@
   "Capacidad": 5,
   "CodigoPostal": 20180,
   "Longitud": "43.289158286846984",
-  "Latitud": "-1.8025796438415682"
+  "Latitud": "-1.8025796438415682",
+  "Municipio": "Oiartzun",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5106,7 +5890,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00004",
   "Nombre": "URKIXA BEKOA",
@@ -5119,7 +5905,9 @@
   "Capacidad": 11,
   "CodigoPostal": 48710,
   "Longitud": "43.32690386",
-  "Latitud": "-2.44798009"
+  "Latitud": "-2.44798009",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5132,7 +5920,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00067",
   "Nombre": "ORUBIXE",
@@ -5145,7 +5935,9 @@
   "Capacidad": 14,
   "CodigoPostal": 48710,
   "Longitud": "43.31283606",
-  "Latitud": "-2.454613"
+  "Latitud": "-2.454613",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5158,7 +5950,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00004",
   "Nombre": "URKIXA BEKOA",
@@ -5171,7 +5965,9 @@
   "Capacidad": 11,
   "CodigoPostal": 48710,
   "Longitud": "43.32690386",
-  "Latitud": "-2.44798009"
+  "Latitud": "-2.44798009",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "XSS00107",
   "Nombre": "GOROSARRI",
@@ -5184,7 +5980,9 @@
   "Capacidad": 21,
   "CodigoPostal": 20530,
   "Longitud": "42.99455967101158",
-  "Latitud": "-2.562980124633782"
+  "Latitud": "-2.562980124633782",
+  "Municipio": "Eskoriatza",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -5197,7 +5995,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00067",
   "Nombre": "ORUBIXE",
@@ -5210,7 +6010,9 @@
   "Capacidad": 14,
   "CodigoPostal": 48710,
   "Longitud": "43.31283606",
-  "Latitud": "-2.454613"
+  "Latitud": "-2.454613",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -5223,7 +6025,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5236,7 +6040,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -5249,7 +6055,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -5262,7 +6070,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -5275,7 +6085,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -5288,7 +6100,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5301,7 +6115,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00072",
   "Nombre": "IBARRONDO ETXEA",
@@ -5314,7 +6130,9 @@
   "Capacidad": 9,
   "CodigoPostal": 48100,
   "Longitud": "43.36859399",
-  "Latitud": "-2.81639778"
+  "Latitud": "-2.81639778",
+  "Municipio": "Mungia",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -5327,7 +6145,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -5340,7 +6160,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -5353,7 +6175,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -5366,7 +6190,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5379,7 +6205,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5392,7 +6220,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -5405,7 +6235,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -5418,7 +6250,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -5431,7 +6265,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -5444,7 +6280,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -5457,7 +6295,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KSS00107",
   "Nombre": "ONDARRE",
@@ -5470,7 +6310,9 @@
   "Capacidad": 15,
   "CodigoPostal": 20214,
   "Longitud": "43.01286607",
-  "Latitud": "-2.25322943"
+  "Latitud": "-2.25322943",
+  "Municipio": "Segura",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -5483,7 +6325,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5496,7 +6340,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BSS00002",
   "Nombre": "GALERNA ZARAUTZ HOSTEL",
@@ -5509,7 +6355,9 @@
   "Capacidad": 18,
   "CodigoPostal": 20800,
   "Longitud": "43.2834108",
-  "Latitud": "-2.1650723999999855"
+  "Latitud": "-2.1650723999999855",
+  "Municipio": "Zarautz",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KBI00071",
   "Nombre": "EL AVELLANO-URRITZA",
@@ -5522,7 +6370,9 @@
   "Capacidad": 7,
   "CodigoPostal": 48891,
   "Longitud": "43.22869118",
-  "Latitud": "-3.37076679"
+  "Latitud": "-3.37076679",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -5535,7 +6385,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BSS00002",
   "Nombre": "GALERNA ZARAUTZ HOSTEL",
@@ -5548,7 +6400,9 @@
   "Capacidad": 18,
   "CodigoPostal": 20800,
   "Longitud": "43.2834108",
-  "Latitud": "-2.1650723999999855"
+  "Latitud": "-2.1650723999999855",
+  "Municipio": "Zarautz",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -5561,7 +6415,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -5574,7 +6430,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -5587,7 +6445,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -5600,7 +6460,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00071",
   "Nombre": "EL AVELLANO-URRITZA",
@@ -5613,7 +6475,9 @@
   "Capacidad": 7,
   "CodigoPostal": 48891,
   "Longitud": "43.22869118",
-  "Latitud": "-3.37076679"
+  "Latitud": "-3.37076679",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00071",
   "Nombre": "EL AVELLANO-URRITZA",
@@ -5626,7 +6490,9 @@
   "Capacidad": 7,
   "CodigoPostal": 48891,
   "Longitud": "43.22869118",
-  "Latitud": "-3.37076679"
+  "Latitud": "-3.37076679",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00072",
   "Nombre": "IBARRONDO ETXEA",
@@ -5639,7 +6505,9 @@
   "Capacidad": 9,
   "CodigoPostal": 48100,
   "Longitud": "43.36859399",
-  "Latitud": "-2.81639778"
+  "Latitud": "-2.81639778",
+  "Municipio": "Mungia",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -5652,7 +6520,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KSS00165",
   "Nombre": "MOMOTEGI",
@@ -5665,7 +6535,9 @@
   "Capacidad": 5,
   "CodigoPostal": 20180,
   "Longitud": "43.289158286846984",
-  "Latitud": "-1.8025796438415682"
+  "Latitud": "-1.8025796438415682",
+  "Municipio": "Oiartzun",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KBI00004",
   "Nombre": "URKIXA BEKOA",
@@ -5678,7 +6550,9 @@
   "Capacidad": 11,
   "CodigoPostal": 48710,
   "Longitud": "43.32690386",
-  "Latitud": "-2.44798009"
+  "Latitud": "-2.44798009",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -5691,7 +6565,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5704,7 +6580,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00071",
   "Nombre": "EL AVELLANO-URRITZA",
@@ -5717,7 +6595,9 @@
   "Capacidad": 7,
   "CodigoPostal": 48891,
   "Longitud": "43.22869118",
-  "Latitud": "-3.37076679"
+  "Latitud": "-3.37076679",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5730,7 +6610,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00067",
   "Nombre": "ORUBIXE",
@@ -5743,7 +6625,9 @@
   "Capacidad": 14,
   "CodigoPostal": 48710,
   "Longitud": "43.31283606",
-  "Latitud": "-2.454613"
+  "Latitud": "-2.454613",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5756,7 +6640,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -5769,7 +6655,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5782,7 +6670,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5795,7 +6685,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00047",
   "Nombre": "ASTEI",
@@ -5808,7 +6700,9 @@
   "Capacidad": 6,
   "CodigoPostal": 48392,
   "Longitud": "43.21714",
-  "Latitud": "-2.669274"
+  "Latitud": "-2.669274",
+  "Municipio": "Muxika",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00071",
   "Nombre": "EL AVELLANO-URRITZA",
@@ -5821,7 +6715,9 @@
   "Capacidad": 7,
   "CodigoPostal": 48891,
   "Longitud": "43.22869118",
-  "Latitud": "-3.37076679"
+  "Latitud": "-3.37076679",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -5834,7 +6730,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5847,7 +6745,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -5860,7 +6760,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -5873,7 +6775,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -5886,7 +6790,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5899,7 +6805,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -5912,7 +6820,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00072",
   "Nombre": "IBARRONDO ETXEA",
@@ -5925,7 +6835,9 @@
   "Capacidad": 9,
   "CodigoPostal": 48100,
   "Longitud": "43.36859399",
-  "Latitud": "-2.81639778"
+  "Latitud": "-2.81639778",
+  "Municipio": "Mungia",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -5938,7 +6850,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -5951,7 +6865,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -5964,7 +6880,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KSS00165",
   "Nombre": "MOMOTEGI",
@@ -5977,7 +6895,9 @@
   "Capacidad": 5,
   "CodigoPostal": 20180,
   "Longitud": "43.289158286846984",
-  "Latitud": "-1.8025796438415682"
+  "Latitud": "-1.8025796438415682",
+  "Municipio": "Oiartzun",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -5990,7 +6910,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -6003,7 +6925,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KSS00107",
   "Nombre": "ONDARRE",
@@ -6016,7 +6940,9 @@
   "Capacidad": 15,
   "CodigoPostal": 20214,
   "Longitud": "43.01286607",
-  "Latitud": "-2.25322943"
+  "Latitud": "-2.25322943",
+  "Municipio": "Segura",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -6029,7 +6955,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -6042,7 +6970,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -6055,7 +6985,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -6068,7 +7000,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -6081,7 +7015,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -6094,7 +7030,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -6107,7 +7045,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -6120,7 +7060,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KSS00165",
   "Nombre": "MOMOTEGI",
@@ -6133,7 +7075,9 @@
   "Capacidad": 5,
   "CodigoPostal": 20180,
   "Longitud": "43.289158286846984",
-  "Latitud": "-1.8025796438415682"
+  "Latitud": "-1.8025796438415682",
+  "Municipio": "Oiartzun",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -6146,7 +7090,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -6159,7 +7105,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -6172,7 +7120,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -6185,7 +7135,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00004",
   "Nombre": "URKIXA BEKOA",
@@ -6198,7 +7150,9 @@
   "Capacidad": 11,
   "CodigoPostal": 48710,
   "Longitud": "43.32690386",
-  "Latitud": "-2.44798009"
+  "Latitud": "-2.44798009",
+  "Municipio": "Berriatua",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00011",
   "Nombre": "AMALAU",
@@ -6211,7 +7165,9 @@
   "Capacidad": 10,
   "CodigoPostal": 48144,
   "Longitud": "43.073646",
-  "Latitud": "-2.735667"
+  "Latitud": "-2.735667",
+  "Municipio": "Zeanuri",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KSS00165",
   "Nombre": "MOMOTEGI",
@@ -6224,7 +7180,9 @@
   "Capacidad": 5,
   "CodigoPostal": 20180,
   "Longitud": "43.289158286846984",
-  "Latitud": "-1.8025796438415682"
+  "Latitud": "-1.8025796438415682",
+  "Municipio": "Oiartzun",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KSS00107",
   "Nombre": "ONDARRE",
@@ -6237,7 +7195,9 @@
   "Capacidad": 15,
   "CodigoPostal": 20214,
   "Longitud": "43.01286607",
-  "Latitud": "-2.25322943"
+  "Latitud": "-2.25322943",
+  "Municipio": "Segura",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -6250,7 +7210,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00029",
   "Nombre": "KERIZARA",
@@ -6263,7 +7225,9 @@
   "Capacidad": 4,
   "CodigoPostal": 48210,
   "Longitud": "43.04531839",
-  "Latitud": "-2.65131239"
+  "Latitud": "-2.65131239",
+  "Municipio": "Otxandio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KSS00165",
   "Nombre": "MOMOTEGI",
@@ -6276,7 +7240,9 @@
   "Capacidad": 5,
   "CodigoPostal": 20180,
   "Longitud": "43.289158286846984",
-  "Latitud": "-1.8025796438415682"
+  "Latitud": "-1.8025796438415682",
+  "Municipio": "Oiartzun",
+  "Territorio": "Gipuzkoa"
 }{
   "Signatura": "KBI00071",
   "Nombre": "EL AVELLANO-URRITZA",
@@ -6289,7 +7255,9 @@
   "Capacidad": 7,
   "CodigoPostal": 48891,
   "Longitud": "43.22869118",
-  "Latitud": "-3.37076679"
+  "Latitud": "-3.37076679",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "BBI00021",
   "Nombre": "MANDOIA",
@@ -6302,7 +7270,9 @@
   "Capacidad": 16,
   "CodigoPostal": 48499,
   "Longitud": "43.1609803",
-  "Latitud": "-2.8040788000000703"
+  "Latitud": "-2.8040788000000703",
+  "Municipio": "Zeberio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -6315,7 +7285,9 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -6328,7 +7300,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "98",
   "Nombre": "BERRIOLOPE",
@@ -6341,7 +7315,9 @@
   "Capacidad": 12,
   "CodigoPostal": 48230,
   "Longitud": "43.13758109",
-  "Latitud": "-2.52459977"
+  "Latitud": "-2.52459977",
+  "Municipio": "Elorrio",
+  "Territorio": "Bizkaia"
 }{
   "Signatura": "KBI00035",
   "Nombre": "FUENTERNILLA",
@@ -6354,5 +7330,7 @@
   "Capacidad": 8,
   "CodigoPostal": 48891,
   "Longitud": "43.23948312",
-  "Latitud": "-3.38669423"
+  "Latitud": "-3.38669423",
+  "Municipio": "Karrantza Harana/Valle de Carranza",
+  "Territorio": "Bizkaia"
 }

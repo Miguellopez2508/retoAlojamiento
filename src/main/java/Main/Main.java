@@ -1,6 +1,8 @@
 package Main;
 
 import java.util.ArrayList;
+import java.util.List;
+
 import org.hibernate.Query;
 import org.hibernate.Session;
 import ConexionesBBDD.ControladorAlojamiento;
@@ -9,6 +11,7 @@ import ConexionesBBDD.SessionFactoryUtil;
 import Modelo.AlojamientoDB;
 import TratamientoDatos.DescargaXml;
 import TratamientoDatos.LeerXml;
+import TratamientoDatos.TratarJson;
 
 public class Main {
 
@@ -16,6 +19,7 @@ public class Main {
 		
 		LeerXml leerXml = new LeerXml();
 		DescargaXml descargarXml = new DescargaXml();
+		TratarJson jsonador = new TratarJson();
 		
 		SessionFactoryUtil sesion = SessionFactoryUtil.getInstance();
 		Session session = sesion.factory.openSession();
@@ -48,6 +52,18 @@ public class Main {
 		for (AlojamientoDB campingss : ArrayAlbergues) {
 			miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud());
 		}
+		
+		Query query2 = session.createQuery("from Modelo.AlojamientoDB");
+		
+		List<AlojamientoDB> list = query2.list();
+		
+		if (jsonador.arraylistAlojamientostoJson(list))
+			System.out.println("ganamos");
+		else {
+			System.out.println("perdemos");
+		}
+		
+		session.close();
 	}
 
 }

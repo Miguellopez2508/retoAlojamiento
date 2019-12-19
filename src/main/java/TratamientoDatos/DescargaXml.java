@@ -12,12 +12,23 @@ public class DescargaXml {
 		String campings = "http://opendata.euskadi.eus/contenidos/ds_recursos_turisticos/campings_de_euskadi/opendata/alojamientos.xml";
 		String alojamientosRurales = "http://opendata.euskadi.eus/contenidos/ds_recursos_turisticos/alojamientos_rurales_euskadi/opendata/alojamientos.xml";
 		String albergues = "http://opendata.euskadi.eus/contenidos/ds_recursos_turisticos/albergues_de_euskadi/opendata/alojamientos.xml";
+		
 	    try {
 	    	descargarXml(campings, "campings.xml");
-	    	descargarXml(alojamientosRurales, "alojamientosRurales.xml");
-	    	descargarXml(albergues, "albergues.xml");
 	    } catch (IOException e) {
-	    	e.printStackTrace();
+	    	System.out.println("Error en la descarga del archivo de campings");
+	    }
+	    
+	    try {
+	    	descargarXml(alojamientosRurales, "alojamientosRurales.xml");
+	    } catch (IOException e){
+	    	System.out.println("Error en la descarga del archivo de campings de alojamientos rurales");
+	    }
+	    
+	    try {
+	    	descargarXml(albergues, "albergues.xml");
+	    } catch (IOException e){
+	    	System.out.println("Error en la descarga del archivo de campings de albergues");
 	    }
 
 	}

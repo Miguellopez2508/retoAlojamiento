@@ -84,6 +84,12 @@ public class LeerXml {
 					
 					try{
 						TipoDeAlojamiento = eElement.getElementsByTagName("lodgingtype").item(0).getTextContent();
+						if (TipoDeAlojamiento.equals("Campings")) TipoDeAlojamiento = "Camping";
+						if (TipoDeAlojamiento.equals("Albergues")) TipoDeAlojamiento = "Albergue";
+						if (TipoDeAlojamiento.equals("Agroturismos")) TipoDeAlojamiento = "Alojamiento Rural";
+						if (TipoDeAlojamiento.equals("Casas Rurales")) TipoDeAlojamiento = "Alojamiento Rural";
+						
+						//TipoDeAlojamiento = eElement.getElementsByTagName("lodgingtype").item(0).getTextContent();
 					}catch(Exception e){
 						TipoDeAlojamiento = "";
 					}
@@ -129,7 +135,8 @@ public class LeerXml {
 					alojamiento.setLatitud(Latitud);	
 					
 					alojamientos.add(alojamiento);	
-				} 
+				}
+
 			}
 			return alojamientos;
 			

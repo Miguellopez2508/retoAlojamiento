@@ -20,5 +20,11 @@
         <property name="id_alojamiento" type="int">
             <column name="ID_ALOJAMIENTO" />
         </property>
+        <many-to-one name="alojamientos" class="Modelo.AlojamientoDB" fetch="select" cascade="all">
+        	<column name="id" precision="2" scale="0" not-null="true"></column>
+        </many-to-one>
+         <many-to-one name="usuario" class="Modelo.UsuarioDB" fetch="select" cascade="all">
+        	<column name="dni" precision="2" scale="0" not-null="true"></column>
+        </many-to-one>
     </class>
 </hibernate-mapping>

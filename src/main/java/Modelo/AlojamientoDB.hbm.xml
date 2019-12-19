@@ -42,5 +42,6 @@
         <property name="Latitud" type="java.lang.String">
             <column name="LATITUD" />
         </property>
+       
     </class>
 </hibernate-mapping>

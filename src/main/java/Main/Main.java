@@ -34,15 +34,17 @@ public class Main {
 		Query query = session.createQuery(hql);	
 		query.executeUpdate();
 		
-		ControladorUsuarios miControlador1 = new ControladorUsuarios();
+//		ControladorUsuarios miControlador1 = new ControladorUsuarios();
+//		miControlador1.addUsuarioDB("fsdfs", "asda", "dasf", "ads");
+		
 		ControladorAlojamiento miControlador2 = new ControladorAlojamiento();
-	
+		
 		for (AlojamientoDB campingss : ArrayCampings) {
-			miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud());
-		}
+			miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud());	
+		}	
 		for (AlojamientoDB campingss : ArrayAlojamientosRurales) {
 			miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud());
-		}
+		}	
 		for (AlojamientoDB campingss : ArrayAlbergues) {
 			miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud());
 		}

@@ -17,12 +17,9 @@ public class AlojamientoDB {
 	public String Municipio;
 	public String Territorio;
 	
-<<<<<<< HEAD
+
 	public AlojamientoDB(String signatura, String nombre, String descripcion, String telefono, String direccion, String email, String web, String tipoDeAlojamiento, int capacidad, int codigoPostal, String longitud, String latitud, String municipio, String territorio) {
-=======
-	
-	public AlojamientoDB(String signatura, String nombre, String descripcion, String telefono, String direccion, String email, String web, String tipoDeAlojamiento, int capacidad, int codigoPostal, String longitud, String latitud, String Municipio, String Territorio) {
->>>>>>> feeb2da6a31202858464b4d8cba002f63a740be5
+
 		this.Signatura = signatura;
 		this.Nombre = nombre;
 		this.Descripcion = descripcion;
@@ -35,13 +32,9 @@ public class AlojamientoDB {
 		this.CodigoPostal = codigoPostal;
 		this.Longitud = longitud;
 		this.Latitud = latitud;
-<<<<<<< HEAD
 		this.Municipio = municipio;
 		this.Territorio = territorio;
-=======
-		this.Municipio = Municipio;
-		this.Territorio = Territorio;
->>>>>>> feeb2da6a31202858464b4d8cba002f63a740be5
+
 	}
 	
 	
@@ -69,26 +62,6 @@ public class AlojamientoDB {
 
 	}
 	
-	
-	
-	public String getMunicipio() {
-		return Municipio;
-	}
-
-
-	public void setMunicipio(String municipio) {
-		Municipio = municipio;
-	}
-
-
-	public String getTerritorio() {
-		return Territorio;
-	}
-
-
-	public void setTerritorio(String territorio) {
-		Territorio = territorio;
-	}
 
 
 	public String getSignatura() {

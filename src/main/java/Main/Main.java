@@ -1,15 +1,25 @@
 package Main;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
+
 import org.hibernate.Query;
 import org.hibernate.Session;
+import org.w3c.dom.Document;
+import org.xml.sax.SAXException;
+
 import ConexionesBBDD.ControladorAlojamiento;
 import ConexionesBBDD.SessionFactoryUtil;
 import Modelo.AlojamientoDB;
 import TratamientoDatos.DescargaXml;
 import TratamientoDatos.LeerXml;
+import TratamientoDatos.Md5Xml;
 import TratamientoDatos.TratarJson;
 
 public class Main {
@@ -19,7 +29,10 @@ public class Main {
 		LeerXml leerXml = new LeerXml();
 		DescargaXml descargarXml = new DescargaXml();
 		TratarJson jsonador = new TratarJson();
-		
+		  
+		Md5Xml md5 = new Md5Xml();
+		md5.pasarXmlAString("albergues.xml");
+				
 		SessionFactoryUtil sesion = SessionFactoryUtil.getInstance();
 		Session session = sesion.factory.openSession();
 		

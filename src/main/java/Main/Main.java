@@ -6,7 +6,6 @@ import java.util.List;
 import org.hibernate.Query;
 import org.hibernate.Session;
 import ConexionesBBDD.ControladorAlojamiento;
-import ConexionesBBDD.ControladorUsuarios;
 import ConexionesBBDD.SessionFactoryUtil;
 import Modelo.AlojamientoDB;
 import TratamientoDatos.DescargaXml;
@@ -46,6 +45,7 @@ public class Main {
 		ControladorAlojamiento miControlador2 = new ControladorAlojamiento();
 		
 		System.out.println("Cargando datos...");
+
 		for (AlojamientoDB campingss : ArrayCampings) {
 			miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud(), campingss.getMunicipio(), campingss.getTerritorio());	
 		}	

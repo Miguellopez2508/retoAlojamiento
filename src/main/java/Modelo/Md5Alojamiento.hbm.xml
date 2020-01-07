@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 07-ene-2020 9:46:26 by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="Modelo.Md5Alojamiento" table="md5alojamientos">
+        <id name="id" type="int">
+            <column name="IdHash" />
+            <generator class="assigned" />
+        </id>
+        <property name="hash" type="java.lang.String">
+            <column name="Hash" />
+        </property>
+    </class>
+</hibernate-mapping>

@@ -1,12 +1,21 @@
 package TratamientoDatos;
 
 import java.io.File;
+import java.io.IOException;
+import java.io.StringWriter;
 import java.util.ArrayList;
 
 import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerException;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.dom.DOMSource;
+import javax.xml.transform.stream.StreamResult;
 import javax.xml.parsers.DocumentBuilder;
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
+import org.xml.sax.SAXException;
 
 import Modelo.AlojamientoDB;
 
@@ -161,4 +170,46 @@ public class LeerXml {
 		
 	}
 
+	public String pasarXmlAString(String xmlDocument) {	
+		File file = new File(xmlDocument);
+		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+		DocumentBuilder dBuilder = null;
+		try {
+			dBuilder = dbFactory.newDocumentBuilder();
+		} catch (ParserConfigurationException e) {
+			
+			e.printStackTrace();
+		}
+		Document doc = null;
+		try {
+			doc = dBuilder.parse(file);
+		} catch (SAXException e) {
+			
+			e.printStackTrace();
+		} catch (IOException e) {
+			
+			e.printStackTrace();
+		}
+				
+	    TransformerFactory tf = TransformerFactory.newInstance();
+	    Transformer transformer;
+	    try {
+	        transformer = tf.newTransformer();
+	         	        
+	        StringWriter writer = new StringWriter();
+	 
+	        transformer.transform(new DOMSource(doc), new StreamResult(writer));
+	 
+	        String xmlString = writer.getBuffer().toString();   
+	        return xmlString;                     
+	    } 
+	    catch (TransformerException e) {
+	        e.printStackTrace();
+	    }
+	    catch (Exception e) {
+	        e.printStackTrace();
+	    }
+	    
+	    return null;
+	}
 }

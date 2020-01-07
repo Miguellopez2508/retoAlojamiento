@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
 "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
-<!-- Generated 18-dic-2019 10:31:22 by Hibernate Tools 3.5.0.Final -->
+<!-- Generated 07-ene-2020 9:46:26 by Hibernate Tools 3.5.0.Final -->
 <hibernate-mapping>
     <class name="Modelo.ReservasDB" table="RESERVASDB">
         <id name="ID" type="int">
@@ -22,9 +22,9 @@
         </property>
         <many-to-one name="alojamientos" class="Modelo.AlojamientoDB" fetch="select" cascade="all">
         	<column name="id" precision="2" scale="0" not-null="true"></column>
-        </many-to-one>
-         <many-to-one name="usuario" class="Modelo.UsuarioDB" fetch="select" cascade="all">
+       	</many-to-one>
+        <many-to-one name="usuario" class="Modelo.UsuarioDB" fetch="select" cascade="all">
         	<column name="dni" precision="2" scale="0" not-null="true"></column>
-        </many-to-one>
+       </many-to-one>
     </class>
 </hibernate-mapping>

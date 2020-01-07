@@ -1,26 +1,18 @@
 package Main;
 
-import java.io.File;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
-
 import org.hibernate.Query;
 import org.hibernate.Session;
-import org.w3c.dom.Document;
-import org.xml.sax.SAXException;
-
 import ConexionesBBDD.ControladorAlojamiento;
+import ConexionesBBDD.ControladorMd5Alojamiento;
 import ConexionesBBDD.SessionFactoryUtil;
 import Modelo.AlojamientoDB;
+import Modelo.Md5Alojamiento;
 import TratamientoDatos.DescargaXml;
 import TratamientoDatos.LeerXml;
-import TratamientoDatos.Md5Xml;
 import TratamientoDatos.TratarJson;
+import TratamientoDatos.TratarMD5;
 
 public class Main {
 
@@ -29,10 +21,8 @@ public class Main {
 		LeerXml leerXml = new LeerXml();
 		DescargaXml descargarXml = new DescargaXml();
 		TratarJson jsonador = new TratarJson();
-		  
-		Md5Xml md5 = new Md5Xml();
-		md5.pasarXmlAString("albergues.xml");
-				
+		TratarMD5 md5or = new TratarMD5();
+						
 		SessionFactoryUtil sesion = SessionFactoryUtil.getInstance();
 		Session session = sesion.factory.openSession();
 		
@@ -46,32 +36,53 @@ public class Main {
 		ArrayList<AlojamientoDB> ArrayAlojamientosRurales =  leerXml.leerXmlDeAlojamientos(alojamientosRurales);
 		ArrayList<AlojamientoDB> ArrayAlbergues =  leerXml.leerXmlDeAlojamientos(albergues);
 		
-		System.out.println("Borrando tablas...");
-		String hql = "delete from Modelo.AlojamientoDB";
-		Query query = session.createQuery(hql);	
-		query.executeUpdate();
-		System.out.println("Borradas\n");
-		
-//		ControladorUsuarios miControlador1 = new ControladorUsuarios();
-//		miControlador1.addUsuarioDB("fsdfs", "asda", "dasf", "ads");
-		
-		ControladorAlojamiento miControlador2 = new ControladorAlojamiento();
-		
-		System.out.println("Cargando datos...");
-
-		for (AlojamientoDB campingss : ArrayCampings) {
-			miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud(), campingss.getMunicipio(), campingss.getTerritorio());	
-		}	
-		for (AlojamientoDB campingss : ArrayAlojamientosRurales) {
-			miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud(), campingss.getMunicipio(), campingss.getTerritorio());
-		}	
-		for (AlojamientoDB campingss : ArrayAlbergues) {
-			miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud(), campingss.getMunicipio(), campingss.getTerritorio());
+		//comprueba si hay hash
+		Query query3 = session.createQuery("from Modelo.Md5Alojamiento");	
+		List<Md5Alojamiento> list1 = query3.list();
+	
+		//si no hay, inserta uno dummy
+		if (list1.size() == 0) {
+			ControladorMd5Alojamiento md5 = new ControladorMd5Alojamiento();
+			md5.addAlojamientoBD("algo");
+			
+			Query query4 = session.createQuery("from Modelo.Md5Alojamiento");			
+			list1 = query4.list();
 		}
-		System.out.println("Cargados\n");
 		
-		Query query2 = session.createQuery("from Modelo.AlojamientoDB");
+		//compara los hashes
+		if (md5or.stringToMD5(leerXml.pasarXmlAString("albergues.xml")).equals(list1.get(0).getHash())) {
+			System.out.println("Las tablas no han cambiado");		
+		} else {
+			System.out.println("Borrando tablas...");
+			String hql = "delete from Modelo.AlojamientoDB";
+			Query query = session.createQuery(hql);	
+			query.executeUpdate();
+			System.out.println("Borradas\n");
+			
+			ControladorAlojamiento miControlador2 = new ControladorAlojamiento();
+			
+			System.out.println("Cargando datos...");
+
+			for (AlojamientoDB campingss : ArrayCampings) {
+				miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud(), campingss.getMunicipio(), campingss.getTerritorio());	
+			}	
+			for (AlojamientoDB campingss : ArrayAlojamientosRurales) {
+				miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud(), campingss.getMunicipio(), campingss.getTerritorio());
+			}	
+			for (AlojamientoDB campingss : ArrayAlbergues) {
+				miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud(), campingss.getMunicipio(), campingss.getTerritorio());
+			}
+			
+			//inserta el nuevo hash
+			ControladorMd5Alojamiento md5 = new ControladorMd5Alojamiento();
+			
+			md5.updateAlojamientoBD(1, md5or.stringToMD5(leerXml.pasarXmlAString("albergues.xml")));
+			
+			System.out.println("Cargados\n");
+		}
 		
+		//obtiene los alojamientos
+		Query query2 = session.createQuery("from Modelo.AlojamientoDB");		
 		List<AlojamientoDB> list = query2.list();
 		
 		if (jsonador.arraylistAlojamientostoJson(list))
@@ -80,7 +91,6 @@ public class Main {
 			System.out.println("perdemos");
 		}
 		
-		session.close();
+		session.close(); 
 	}
-
 }

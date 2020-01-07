@@ -1,17 +1,16 @@
 <?xml version="1.0"?>
 <!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
 "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
-<!-- Generated 18-dic-2019 10:31:22 by Hibernate Tools 3.5.0.Final -->
+<!-- Generated 07-ene-2020 9:46:26 by Hibernate Tools 3.5.0.Final -->
 <hibernate-mapping>
     <class name="Modelo.AlojamientoDB" table="alojamientos">
         <id name="Capacidad" type="int">
             <column name="CAPACIDAD" />
             <generator class="assigned" />
         </id>
-        
         <property name="Signatura" type="java.lang.String">
             <column name="ID" />
-        </property>     
+        </property>
         <property name="Nombre" type="java.lang.String">
             <column name="NOMBRE" />
         </property>
@@ -48,6 +47,5 @@
         <property name="Territorio" type="java.lang.String">
             <column name="TERRITORIO" />
         </property>
-       
     </class>
 </hibernate-mapping>

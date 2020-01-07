@@ -48,5 +48,9 @@
         <property name="Territorio" type="java.lang.String">
             <column name="TERRITORIO" />
         </property>
+<<<<<<< HEAD
+=======
+       
+>>>>>>> feeb2da6a31202858464b4d8cba002f63a740be5
     </class>
 </hibernate-mapping>

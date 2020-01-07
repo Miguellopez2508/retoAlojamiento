@@ -37,7 +37,11 @@ public class LeerXml {
 					Element eElement = (Element) nNode;
 					AlojamientoDB alojamiento = new AlojamientoDB();
 					
+<<<<<<< HEAD
 					String Signatura,Nombre,Descripcion,Telefono,Direccion,Email,Web,TipoDeAlojamiento,Longitud,Latitud, Municipio, Territorio;
+=======
+					String Signatura,Nombre,Descripcion,Telefono,Direccion,Email,Web,TipoDeAlojamiento,Longitud,Latitud,Municipio,Territorio;
+>>>>>>> feeb2da6a31202858464b4d8cba002f63a740be5
 					int Capacidad,CodigoPostal;
 					
 					try{
@@ -116,7 +120,11 @@ public class LeerXml {
 						Latitud =  eElement.getElementsByTagName("lonwgs84").item(0).getTextContent();
 					}catch(Exception e){
 						Latitud = "";
+<<<<<<< HEAD
 					}
+=======
+					}	
+>>>>>>> feeb2da6a31202858464b4d8cba002f63a740be5
 					
 					try{
 						Municipio =  eElement.getElementsByTagName("municipality").item(0).getTextContent();

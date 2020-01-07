@@ -14,9 +14,10 @@ public class AlojamientoDB {
 	public int CodigoPostal;
 	public String Longitud;
 	public String Latitud;
+	public String Municipio;
+	public String Territorio;
 	
-	
-	public AlojamientoDB(String signatura, String nombre, String descripcion, String telefono, String direccion, String email, String web, String tipoDeAlojamiento, int capacidad, int codigoPostal, String longitud, String latitud) {
+	public AlojamientoDB(String signatura, String nombre, String descripcion, String telefono, String direccion, String email, String web, String tipoDeAlojamiento, int capacidad, int codigoPostal, String longitud, String latitud, String municipio, String territorio) {
 		this.Signatura = signatura;
 		this.Nombre = nombre;
 		this.Descripcion = descripcion;
@@ -29,9 +30,31 @@ public class AlojamientoDB {
 		this.CodigoPostal = codigoPostal;
 		this.Longitud = longitud;
 		this.Latitud = latitud;
+		this.Municipio = municipio;
+		this.Territorio = territorio;
 	}
 	
 	
+	public String getMunicipio() {
+		return Municipio;
+	}
+
+
+	public String getTerritorio() {
+		return Territorio;
+	}
+
+
+	public void setMunicipio(String municipio) {
+		Municipio = municipio;
+	}
+
+
+	public void setTerritorio(String territorio) {
+		Territorio = territorio;
+	}
+
+
 	public AlojamientoDB() {
 
 	}
@@ -113,8 +136,5 @@ public class AlojamientoDB {
 	public void setLatitud(String latitud) {
 		Latitud = latitud;
 	}
-	
-	
-	
 	
 }

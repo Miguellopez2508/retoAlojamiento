@@ -37,7 +37,7 @@ public class LeerXml {
 					Element eElement = (Element) nNode;
 					AlojamientoDB alojamiento = new AlojamientoDB();
 					
-					String Signatura,Nombre,Descripcion,Telefono,Direccion,Email,Web,TipoDeAlojamiento,Longitud,Latitud;
+					String Signatura,Nombre,Descripcion,Telefono,Direccion,Email,Web,TipoDeAlojamiento,Longitud,Latitud, Municipio, Territorio;
 					int Capacidad,CodigoPostal;
 					
 					try{
@@ -116,7 +116,19 @@ public class LeerXml {
 						Latitud =  eElement.getElementsByTagName("lonwgs84").item(0).getTextContent();
 					}catch(Exception e){
 						Latitud = "";
-					}						
+					}
+					
+					try{
+						Municipio =  eElement.getElementsByTagName("municipality").item(0).getTextContent();
+					}catch(Exception e){
+						Municipio = "";
+					}
+					
+					try{
+						Territorio =  eElement.getElementsByTagName("territory").item(0).getTextContent();
+					}catch(Exception e){
+						Territorio = "";
+					}
 					
 					//System.out.println( i + " Nombre: " + Nombre + " Descripcion:" + Descripcion + " Telefono" + Telefono + " Direccion: " + Direccion + " Email: " + Email + " Web: " + Web + " TipoAlojamiento: " + TipoDeAlojamiento + " Capacidad: " + Capacidad + " CodigoPostal: " + CodigoPostal + " Latitud: " + Latitud + " Longitud: " + Longitud);
 
@@ -132,7 +144,9 @@ public class LeerXml {
 					alojamiento.setCapacidad(Capacidad);	
 					alojamiento.setCodigoPostal(CodigoPostal);	
 					alojamiento.setLongitud(Longitud);	
-					alojamiento.setLatitud(Latitud);	
+					alojamiento.setLatitud(Latitud);
+					alojamiento.setMunicipio(Municipio);
+					alojamiento.setTerritorio(Territorio);
 					
 					alojamientos.add(alojamiento);	
 				}

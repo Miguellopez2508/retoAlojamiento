@@ -28,15 +28,15 @@ SessionFactoryUtil sesion = SessionFactoryUtil.getInstance();
 		} 
 	}
 	
-	public void updateAlojamientoBD(int AlojamientoID, String nuevoId){
+	public void updateAlojamientoBD(int AlojamientohashID, String nuevoHash){
 		
 		Session session = sesion.factory.openSession();
 		Transaction tx = null;
 		
 		try{
 			tx = session.beginTransaction();
-			Md5Alojamiento alojamiento = (Md5Alojamiento)session.get(Md5Alojamiento.class, AlojamientoID); 
-			alojamiento.setHash(nuevoId);        
+			Md5Alojamiento alojamiento = (Md5Alojamiento)session.get(Md5Alojamiento.class, AlojamientohashID); 
+			alojamiento.setHash(nuevoHash);        
 			session.update(alojamiento); 
 			tx.commit();
 		}catch (HibernateException e) {

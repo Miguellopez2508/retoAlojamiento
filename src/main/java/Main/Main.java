@@ -79,7 +79,7 @@ public class Main {
 			
 			//inserta el nuevo hash
 			ControladorMd5Alojamiento md5 = new ControladorMd5Alojamiento();			
-			md5.updateAlojamientoBD(0, md5or.stringToMD5(leerXml.pasarXmlAString("albergues.xml")));
+			md5.updateAlojamientoBD(1, md5or.stringToMD5(datos));
 			
 			System.out.println("Cargados\n");
 		}

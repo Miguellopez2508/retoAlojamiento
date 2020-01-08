@@ -40,7 +40,7 @@ public class Main {
 		Query query3 = session.createQuery("from Modelo.Md5Alojamiento");	
 		List<Md5Alojamiento> list1 = query3.list();
 	
-		//si no hay, inserta uno dummy
+		//si no hay, inserta uno cualquiera
 		if (list1.size() == 0) {
 			ControladorMd5Alojamiento md5 = new ControladorMd5Alojamiento();
 			md5.addAlojamientoBD("algo");
@@ -49,15 +49,19 @@ public class Main {
 			list1 = query4.list();
 		}
 		
+		String datos = leerXml.pasarXmlAString("campings.xml");
+		datos += leerXml.pasarXmlAString("alojamientosRurales.xml");
+		datos += leerXml.pasarXmlAString("albergues.xml");
+		
 		//compara los hashes
-		if (md5or.stringToMD5(leerXml.pasarXmlAString("albergues.xml")).equals(list1.get(0).getHash())) {
-			System.out.println("Las tablas no han cambiado");		
+		if (md5or.stringToMD5(datos).equals(list1.get(0).getHash())) {
+			System.out.println("Las tablas están actualizadas");		
 		} else {
-			System.out.println("Borrando tablas...");
+			System.out.println("Reseteando tablas...");
 			String hql = "delete from Modelo.AlojamientoDB";
 			Query query = session.createQuery(hql);	
 			query.executeUpdate();
-			System.out.println("Borradas\n");
+			System.out.println("Reseteadas\n");
 			
 			ControladorAlojamiento miControlador2 = new ControladorAlojamiento();
 			
@@ -74,8 +78,7 @@ public class Main {
 			}
 			
 			//inserta el nuevo hash
-			ControladorMd5Alojamiento md5 = new ControladorMd5Alojamiento();
-			
+			ControladorMd5Alojamiento md5 = new ControladorMd5Alojamiento();			
 			md5.updateAlojamientoBD(0, md5or.stringToMD5(leerXml.pasarXmlAString("albergues.xml")));
 			
 			System.out.println("Cargados\n");

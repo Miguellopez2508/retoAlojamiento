@@ -1,5 +1,6 @@
 package ConexionesBBDD;
 
+import org.hibernate.HibernateException;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
@@ -20,7 +21,8 @@ public class SessionFactoryUtil {
 	public SessionFactoryUtil() {
 		try { 
 			factory = new Configuration().configure().buildSessionFactory(); 
-		} catch (Throwable ex) { 
+		}
+		catch (HibernateException ex) { 
 			System.err.println("Failed to create sessionFactory object." + ex); 
 			throw new ExceptionInInitializerError(ex); 
 		} 

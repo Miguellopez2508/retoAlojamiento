@@ -2,6 +2,11 @@ package Main;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import javax.swing.JOptionPane;
+
+import org.hibernate.HibernateException;
+import org.hibernate.JDBCException;
 import org.hibernate.Query;
 import org.hibernate.Session;
 import ConexionesBBDD.ControladorAlojamiento;
@@ -18,82 +23,82 @@ public class Main {
 
 	public static void main(String[] args) {
 		
+		//Declaracion de variables
+		List<AlojamientoDB> list = null;
+		List<Md5Alojamiento> list1 = null;
+		String datos = "";
+		Query query2 = null;
+		Query query3 = null;
+		Query query4 = null;
+		
+		ControladorMd5Alojamiento md5 = new ControladorMd5Alojamiento();
 		LeerXml leerXml = new LeerXml();
 		DescargaXml descargarXml = new DescargaXml();
 		TratarJson jsonador = new TratarJson();
-		TratarMD5 md5or = new TratarMD5();
-						
-		SessionFactoryUtil sesion = SessionFactoryUtil.getInstance();
-		Session session = sesion.factory.openSession();
+		TratarMD5 md5or = new TratarMD5();	
 		
+		SessionFactoryUtil sesion = null;
+		Session session = null;
+		
+		String campings ="";
+		String alojamientosRurales="";
+		String albergues="";
+		ArrayList<AlojamientoDB> ArrayCampings = null;
+		ArrayList<AlojamientoDB> ArrayAlojamientosRurales = null;
+		ArrayList<AlojamientoDB> ArrayAlbergues = null;
+		
+		//Hace la sesion de hibernate
+		sesion = SessionFactoryUtil.getInstance();					
+		session = sesion.factory.openSession();
+		
+		//Descarga los xml de los alojamientos de internet
 		descargarXml.cogerRuta();
 		
-		String campings = System.getProperty("user.dir") + "\\campings.xml";
-		String alojamientosRurales = System.getProperty("user.dir") + "\\alojamientosRurales.xml";
-		String albergues = System.getProperty("user.dir") + "\\albergues.xml";
+		//Rellena los arrays con los datos del xml 
+		campings = System.getProperty("user.dir") + "\\campings.xml";
+		alojamientosRurales = System.getProperty("user.dir") + "\\alojamientosRurales.xml";
+		albergues = System.getProperty("user.dir") + "\\albergues.xml";
 		
-		ArrayList<AlojamientoDB> ArrayCampings =  leerXml.leerXmlDeAlojamientos(campings);
-		ArrayList<AlojamientoDB> ArrayAlojamientosRurales =  leerXml.leerXmlDeAlojamientos(alojamientosRurales);
-		ArrayList<AlojamientoDB> ArrayAlbergues =  leerXml.leerXmlDeAlojamientos(albergues);
+		ArrayCampings =  leerXml.leerXmlDeAlojamientos(campings);
+		ArrayAlojamientosRurales =  leerXml.leerXmlDeAlojamientos(alojamientosRurales);
+		ArrayAlbergues =  leerXml.leerXmlDeAlojamientos(albergues);
 		
-		//comprueba si hay hash
-		Query query3 = session.createQuery("from Modelo.Md5Alojamiento");	
-		List<Md5Alojamiento> list1 = query3.list();
-	
-		//si no hay, inserta uno cualquiera
+		//Comprueba si hay hash		
+		try {			
+			query3 = session.createQuery("from Modelo.Md5Alojamiento");	
+			list1 = query3.list();
+		}
+		catch(Throwable ex){
+			JOptionPane.showMessageDialog(null, "Error de conexion", "ERROR", JOptionPane.WARNING_MESSAGE);
+		}
+		
+		//Si no hay ningun hash, inserta uno 
 		if (list1.size() == 0) {
-			ControladorMd5Alojamiento md5 = new ControladorMd5Alojamiento();
-			md5.addAlojamientoBD("algo");
 			
-			Query query4 = session.createQuery("from Modelo.Md5Alojamiento");			
+			md5.addAlojamientoBD("algo");	
+			query4 = session.createQuery("from Modelo.Md5Alojamiento");			
 			list1 = query4.list();
 		}
 		
-		String datos = leerXml.pasarXmlAString("campings.xml");
+		//Pasa todos los xml a un String
+		datos = leerXml.pasarXmlAString("campings.xml");
 		datos += leerXml.pasarXmlAString("alojamientosRurales.xml");
 		datos += leerXml.pasarXmlAString("albergues.xml");
 		
-		//compara los hashes
-		if (md5or.stringToMD5(datos).equals(list1.get(0).getHash())) {
-			System.out.println("Las tablas están actualizadas");		
-		} else {
-			System.out.println("Reseteando tablas...");
-			String hql = "delete from Modelo.AlojamientoDB";
-			Query query = session.createQuery(hql);	
-			query.executeUpdate();
-			System.out.println("Reseteadas\n");
-			
-			ControladorAlojamiento miControlador2 = new ControladorAlojamiento();
-			
-			System.out.println("Cargando datos...");
-
-			for (AlojamientoDB campingss : ArrayCampings) {
-				miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud(), campingss.getMunicipio(), campingss.getTerritorio());	
-			}	
-			for (AlojamientoDB campingss : ArrayAlojamientosRurales) {
-				miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud(), campingss.getMunicipio(), campingss.getTerritorio());
-			}	
-			for (AlojamientoDB campingss : ArrayAlbergues) {
-				miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud(), campingss.getMunicipio(), campingss.getTerritorio());
-			}
-			
-			//inserta el nuevo hash
-			ControladorMd5Alojamiento md5 = new ControladorMd5Alojamiento();			
-			md5.updateAlojamientoBD(1, md5or.stringToMD5(datos));
-			
-			System.out.println("Cargados\n");
-		}
+		//Compara los hashes
+		md5or.compararHash(datos, list1, session, ArrayAlojamientosRurales, ArrayCampings, ArrayAlbergues);
 		
 		//obtiene los alojamientos
-		Query query2 = session.createQuery("from Modelo.AlojamientoDB");		
-		List<AlojamientoDB> list = query2.list();
+		query2 = session.createQuery("from Modelo.AlojamientoDB");		
+		list = query2.list();
 		
 		if (jsonador.arraylistAlojamientostoJson(list))
 			System.out.println("Json cargado");
 		else {
-			System.out.println("perdemos");
+			System.out.println("Json no cargado");
 		}
 		
+		//Cierra sesion de hibernate
 		session.close(); 
 	}
 }

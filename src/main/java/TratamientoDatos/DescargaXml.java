@@ -4,6 +4,9 @@ import java.io.IOException;
 import java.net.URL;
 import java.nio.channels.Channels;
 import java.nio.channels.ReadableByteChannel;
+import java.util.ArrayList;
+
+import Modelo.AlojamientoDB;
 
 public class DescargaXml {
 
@@ -42,4 +45,6 @@ public class DescargaXml {
         fos.close();
         rbc.close();
     }
+	
+	
 }

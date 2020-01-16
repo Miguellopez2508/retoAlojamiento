@@ -10,7 +10,7 @@ public class ControladorAlojamiento {
 	
 	SessionFactoryUtil sesion = SessionFactoryUtil.getInstance();
 	
-	public void addAlojamientoBD(String SIGNATURA, String NOMBRE,	String DESCRIPCION,	String TELEFONO, String	DIRECCION, String EMAIL, String	WEB, String	TIPO, int CAPACIDAD, int CODIGO_POSTAL,	String LATITUD, String LONGITUD, String MUNICIPIO, String TERRITORIO){
+	public void addAlojamientoBD(String SIGNATURA, String NOMBRE, String DESCRIPCION, String TELEFONO, String DIRECCION, String EMAIL, String WEB, String TIPO, int CAPACIDAD, int CODIGO_POSTAL,	String LATITUD, String LONGITUD, String MUNICIPIO, String TERRITORIO){
 
 		Session session = sesion.factory.openSession();
 		Transaction tx = null;

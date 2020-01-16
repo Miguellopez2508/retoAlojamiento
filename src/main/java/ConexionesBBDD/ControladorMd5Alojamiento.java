@@ -36,7 +36,8 @@ SessionFactoryUtil sesion = SessionFactoryUtil.getInstance();
 		try{
 			tx = session.beginTransaction();
 			Md5Alojamiento alojamiento = (Md5Alojamiento)session.get(Md5Alojamiento.class, AlojamientohashID); 
-			alojamiento.setHash(nuevoHash);        
+			alojamiento.setId(0);
+			alojamiento.setHash(nuevoHash);  
 			session.update(alojamiento); 
 			tx.commit();
 		}catch (HibernateException e) {

@@ -13,6 +13,8 @@ import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 import javax.xml.parsers.DocumentBuilder;
+
+import org.apache.commons.text.StringEscapeUtils;
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
@@ -21,6 +23,8 @@ import Modelo.AlojamientoDB;
 
 import org.w3c.dom.Node;
 import org.w3c.dom.Element;
+
+
 
 public class LeerXml {
 
@@ -47,6 +51,10 @@ public class LeerXml {
 					AlojamientoDB alojamiento = new AlojamientoDB();
 					
 					String Signatura,Nombre,Descripcion,Telefono,Direccion,Email,Web,TipoDeAlojamiento,Longitud,Latitud, Municipio, Territorio;
+					
+					String replace1,replace2,replace3,replace4,replace5,replace6;
+					
+					String html = "";
 
 					int Capacidad,CodigoPostal;
 					
@@ -63,7 +71,47 @@ public class LeerXml {
 					}
 	
 					try{
-						Descripcion = eElement.getElementsByTagName("turismdescription").item(0).getTextContent();
+						Descripcion = eElement.getElementsByTagName("turismdescription").item(1).getTextContent();				
+						html = StringEscapeUtils.unescapeHtml4(Descripcion);
+						html = html.replaceAll("<br/>", "");
+						html = html.replaceAll("<strong>", "");
+						html = html.replaceAll("</strong>", "");
+						html = html.replaceAll("<p>", "");
+						html = html.replaceAll("</p>", "");
+						html = html.replaceAll("<br>", "");
+						html = html.replaceAll("&oacute ", "ó");
+						html = html.replaceAll("&aacute ", "á");
+						html = html.replaceAll("&Aacute ", "Á");
+						html = html.replaceAll("&Eacute ", "É");
+						html = html.replaceAll("&Iacute ", "Í");
+						html = html.replaceAll("&Oacute ", "Ó");
+						html = html.replaceAll("&Uacute ", "Ú");
+						html = html.replaceAll("&Yacute ", "Ý");
+						html = html.replaceAll("&eacute ", "é");
+						html = html.replaceAll("&iacute ", "í");						
+						html = html.replaceAll("&uacute ", "ú");
+						html = html.replaceAll("&yacute ", "ú");
+						html = html.replaceAll("<br />", "");
+						html = html.replaceAll("<a href=\"", "");
+						html = html.replaceAll("\">", "");
+						html = html.replaceAll("</a>", "");
+						html = html.replaceAll("target=\"_blank\">", "");
+						html = html.replaceAll("&ntilde ", "ñ");
+						html = html.replaceAll("&nbsp ", " ");
+						html = html.replaceAll("</em>", "");
+						html = html.replaceAll("<em>", "");
+						html = html.replaceAll("&ldquo", "\"");
+						html = html.replaceAll("&rdquo", "\"");
+						html = html.replaceAll("&sup2", "²");
+						html = html.replaceAll("&hellip", "...");
+						html = html.replaceAll("&ndash", "-");
+						html = html.replaceAll("target=\"_blank", " ");
+						html = html.replaceAll("onclick=\"window.open(this.href, &apos;&apos;, &apos;resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no&apos;)", "");		
+						html = html.replaceAll("onclick=\"window.open(this.href, &apos;&apos;, &apos;resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no&apos;)", "");
+						html = html.replaceAll("&uuml ", "ü");
+						html = html.replaceAll("&Uuml ", "Ü");
+						Descripcion = html;						
+						System.out.println(Descripcion);
 					}catch(Exception e){
 						Descripcion = "";
 					}

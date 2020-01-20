@@ -50,9 +50,7 @@ public class LeerXml {
 					Element eElement = (Element) nNode;
 					AlojamientoDB alojamiento = new AlojamientoDB();
 					
-					String Signatura,Nombre,Descripcion,Telefono,Direccion,Email,Web,TipoDeAlojamiento,Longitud,Latitud, Municipio, Territorio;
-					
-					String replace1,replace2,replace3,replace4,replace5,replace6;
+					String Signatura,Nombre,Descripcion,Telefono,Direccion,Email,Web,TipoDeAlojamiento,Longitud,Latitud, Municipio, Territorio;					
 					
 					String html = "";
 

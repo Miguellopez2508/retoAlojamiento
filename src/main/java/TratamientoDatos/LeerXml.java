@@ -109,7 +109,7 @@ public class LeerXml {
 						html = html.replaceAll("&uuml ", "ü");
 						html = html.replaceAll("&Uuml ", "Ü");
 						Descripcion = html;						
-						System.out.println(Descripcion);
+						//System.out.println(Descripcion);
 					}catch(Exception e){
 						Descripcion = "";
 					}

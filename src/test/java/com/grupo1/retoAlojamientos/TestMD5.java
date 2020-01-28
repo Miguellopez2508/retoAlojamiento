@@ -15,4 +15,11 @@ public class TestMD5 {
 		assertEquals(tratar.stringToMD5("perro"), "d44b121fc3524fe5cdc4f3feb31ceb78");
 	}
 
+	
+	@Test
+	public void test2() {
+		TratarMD5 tratar = new TratarMD5();
+		
+		assertTrue(tratar.stringToMD5("perro"));
+	}
 }

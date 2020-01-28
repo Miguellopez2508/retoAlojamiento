@@ -42,36 +42,12 @@ public class TratarMD5 {
 	}		
 	
 	
-	public void compararHash(String datos, List<Md5Alojamiento> list1, Session session, ArrayList<AlojamientoDB> ArrayAlojamientosRurales, ArrayList<AlojamientoDB> ArrayCampings, ArrayList<AlojamientoDB> ArrayAlbergues ) {
+	public boolean compararHash(String datos, List<Md5Alojamiento> list1) {		
 		
 		if (stringToMD5(datos).equals(list1.get(0).getHash())) {
-			System.out.println("Las tablas están actualizadas");		
+			return true;
 		} else {
-			System.out.println("Reseteando tablas...");
-			String hql = "delete from Modelo.AlojamientoDB";
-			Query query = session.createQuery(hql);	
-			query.executeUpdate();
-			System.out.println("Reseteadas\n");
-			
-			ControladorAlojamiento miControlador2 = new ControladorAlojamiento();
-			
-			System.out.println("Cargando datos...");
-
-			for (AlojamientoDB campingss : ArrayCampings) {
-				miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud(), campingss.getMunicipio(), campingss.getTerritorio());	
-			}	
-			for (AlojamientoDB campingss : ArrayAlojamientosRurales) {
-				miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud(), campingss.getMunicipio(), campingss.getTerritorio());
-			}	
-			for (AlojamientoDB campingss : ArrayAlbergues) {
-				miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud(), campingss.getMunicipio(), campingss.getTerritorio());
-			}
-			
-			//inserta el nuevo hash
-			ControladorMd5Alojamiento md5 = new ControladorMd5Alojamiento();			
-			md5.updateAlojamientoBD(0, stringToMD5(datos));
-			
-			System.out.println("Cargados\n");
+			return false;
 		}
 	}
 }

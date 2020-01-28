@@ -5,6 +5,8 @@ import java.util.List;
 import javax.swing.JOptionPane;
 import org.hibernate.Query;
 import org.hibernate.Session;
+
+import ConexionesBBDD.ControladorAlojamiento;
 import ConexionesBBDD.ControladorMd5Alojamiento;
 import ConexionesBBDD.SessionFactoryUtil;
 import Modelo.AlojamientoDB;
@@ -81,7 +83,34 @@ public class Main {
 		datos += leerXml.pasarXmlAString("albergues.xml");
 		
 		//Compara los hashes
-		md5or.compararHash(datos, list1, session, ArrayAlojamientosRurales, ArrayCampings, ArrayAlbergues);
+		if(md5or.compararHash(datos, list1)) {
+			System.out.println("Las tablas están actualizadas");
+		} else {
+			System.out.println("Reseteando tablas...");
+			String hql = "delete from Modelo.AlojamientoDB";
+			Query query = session.createQuery(hql);	
+			query.executeUpdate();
+			System.out.println("Reseteadas\n");
+			
+			ControladorAlojamiento miControlador2 = new ControladorAlojamiento();
+			
+			System.out.println("Cargando datos...");
+
+			for (AlojamientoDB campingss : ArrayCampings) {
+				miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud(), campingss.getMunicipio(), campingss.getTerritorio());	
+			}	
+			for (AlojamientoDB campingss : ArrayAlojamientosRurales) {
+				miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud(), campingss.getMunicipio(), campingss.getTerritorio());
+			}	
+			for (AlojamientoDB campingss : ArrayAlbergues) {
+				miControlador2.addAlojamientoBD(campingss.getSignatura(), campingss.getNombre(), campingss.getDescripcion(), campingss.getTelefono(), campingss.getDireccion(), campingss.getEmail(), campingss.getWeb(), campingss.getTipoDeAlojamiento(), campingss.getCapacidad(), campingss.getCodigoPostal(), campingss.getLongitud(), campingss.getLatitud(), campingss.getMunicipio(), campingss.getTerritorio());
+			}
+			
+			//inserta el nuevo has			
+			md5.updateAlojamientoBD(0, md5or.stringToMD5(datos));
+			
+			System.out.println("Cargados\n");
+		}
 		
 		//obtiene los alojamientos
 		query2 = session.createQuery("from Modelo.AlojamientoDB");		
@@ -96,4 +125,6 @@ public class Main {
 		//Cierra sesion de hibernate
 		session.close(); 
 	}
+	
+	
 }
